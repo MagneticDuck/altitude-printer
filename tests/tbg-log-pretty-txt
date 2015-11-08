@@ -1,5 +1,5 @@
-0d:0h:0m:34s   || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) joins the game ||
-0d:0h:0m:57s   || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
+0d:0h:0m:34s   || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) ||
+0d:0h:0m:57s   || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
 0d:0h:1m:27s   |  Stam             thamk you again
 0d:0h:1m:31s   |  Magnetic Duck    yw
 0d:0h:1m:32s   |  Stam             *thank
@@ -42,8 +42,8 @@
 0d:0h:6m:24s   |  Stam             skymonster
 0d:0h:6m:27s   |  Magnetic Duck    those are your members who play bladder and have the TBG tag in their names
 0d:0h:6m:28s   |  Stam             without tbg tag
-0d:0h:8m:42s   || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) leaves the game ||
-0d:0h:8m:51s   || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) joins the game ||
+0d:0h:8m:42s   || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d): Client left. ||
+0d:0h:8m:51s   || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) ||
 0d:0h:8m:54s   |  Magnetic Duck    hey actually
 0d:0h:8m:59s   |  Magnetic Duck    do you have any scrims set up lately
 0d:0h:8m:59s   |  Stam             hi..
@@ -141,14 +141,14 @@
 0d:0h:28m:32s  |  Stam             brb
 0d:0h:31m:52s  |  Magnetic Duck    I'll be back in 12 minutes
 0d:0h:31m:57s  |  Magnetic Duck    add me on skype, I'm magnetic.duck
-0d:0h:40m:34s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-0d:0h:43m:13s  || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) leaves the game ||
-0d:0h:43m:56s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
-0d:0h:44m:19s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-0d:0h:58m:20s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
-0d:0h:58m:59s  || ---> "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) joins the game ||
+0d:0h:40m:34s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636): Connection to game server timed out ||
+0d:0h:43m:13s  || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d): Client left. ||
+0d:0h:43m:56s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
+0d:0h:44m:19s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+0d:0h:58m:20s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
+0d:0h:58m:59s  || ---> "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) ||
 0d:0h:59m:20s  |  Stam             so 1de or 1dm
-0d:0h:59m:23s  || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) joins the game ||
+0d:0h:59m:23s  || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) ||
 0d:0h:59m:28s  |  Stam             i hope u remember 1de
 0d:1h:0m:0s    |  Stam             u remember 1de right?
 0d:1h:0m:3s    |  {TBG} Skymonster sure
@@ -181,7 +181,7 @@
 0d:1h:6m:40s   |  {TBG} Skymonster anyway I have to leave.... sorry
 0d:1h:6m:44s   |  Stam             bb
 0d:1h:6m:49s   |  Stam             1v1
-0d:1h:6m:53s   || <--- "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) leaves the game ||
+0d:1h:6m:53s   || <--- "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0): Client left. ||
 0d:1h:6m:58s   |  Stam             gah
 0d:1h:7m:4s    |  Stam             wasnt paying attention
 0d:1h:7m:17s   |  Magnetic Duck    that's how you play whale
@@ -211,15 +211,15 @@
 0d:1h:10m:33s  |  Stam             ye its me
 0d:1h:10m:44s  |  Stam             didnt see the messages
 0d:1h:10m:53s  |  Stam             still cant see them
-0d:1h:20m:31s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-0d:2h:0m:30s   || ---> "*Aris*" (de8df030-3ae2-4890-b148-640fdc54e3f5) joins the game ||
+0d:1h:20m:31s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+0d:2h:0m:30s   || ---> "*Aris*" (de8df030-3ae2-4890-b148-640fdc54e3f5) ||
 0d:1h:20m:31s  || ---- 0d:0h:39m:59s passes ||
-0d:2h:4m:4s    || <--- "*Aris*" (de8df030-3ae2-4890-b148-640fdc54e3f5) leaves the game ||
-0d:2h:17m:24s  || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) leaves the game ||
-0d:2h:51m:30s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
+0d:2h:4m:4s    || <--- "*Aris*" (de8df030-3ae2-4890-b148-640fdc54e3f5): Client left. ||
+0d:2h:17m:24s  || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d): Client left. ||
+0d:2h:51m:30s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
 0d:2h:17m:24s  || ---- 0d:0h:34m:5s passes ||
-0d:2h:51m:49s  || ---> "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) joins the game ||
-0d:2h:51m:59s  || ---> "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) joins the game ||
+0d:2h:51m:49s  || ---> "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) ||
+0d:2h:51m:59s  || ---> "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) ||
 0d:2h:52m:9s   |  Stam             so
 0d:2h:52m:36s  |  Stam             what map would u like guys?
 0d:2h:52m:45s  |  GEO{TBG}         ah
@@ -375,9 +375,9 @@
 0d:3h:14m:17s  |  Sado             geia
 0d:3h:14m:17s  |  GEO{TBG}         hes back :)
 0d:3h:14m:19s  |  Stam             join geo
-0d:3h:14m:22s  || <--- "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) leaves the game ||
+0d:3h:14m:22s  || <--- "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07): Connection to game server timed out ||
 0d:3h:14m:24s  |  Stam             and ill win
-0d:3h:14m:29s  || ---> "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) joins the game ||
+0d:3h:14m:29s  || ---> "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) ||
 0d:3h:14m:32s  |  Stam             dont tell him anything
 0d:3h:14m:34s  |  Stam             geo
 0d:3h:14m:35s  |  GEO{TBG}         ok
@@ -401,7 +401,7 @@
 0d:3h:17m:35s  |  GEO{TBG}         opoy goystaro
 0d:3h:17m:36s  |  GEO{TBG}         b
 0d:3h:17m:38s  |  Sado             b
-0d:3h:17m:39s  || <--- "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) leaves the game ||
+0d:3h:17m:39s  || <--- "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb): Client left. ||
 0d:3h:17m:39s  |  Stam             pou?
 0d:3h:17m:44s  |  Sado             idk
 0d:3h:17m:44s  |  Stam             s arese
@@ -450,7 +450,7 @@
 0d:3h:26m:6s   |  Stam             phew
 0d:3h:26m:36s  |  Stam             phew
 0d:3h:26m:41s  |  Stam             kai pali
-0d:3h:26m:48s  || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) joins the game ||
+0d:3h:26m:48s  || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) ||
 0d:3h:27m:14s  |  Stam             hey duck
 0d:3h:28m:21s  |  Stam             so sado?
 0d:3h:28m:29s  |  Stam             what map would you like?
@@ -558,16 +558,16 @@
 0d:3h:55m:24s  |  Sado             i am
 0d:3h:55m:26s  |  Sado             -.-
 0d:3h:55m:27s  |  Sado             :P
-0d:3h:55m:53s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-0d:3h:57m:32s  || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) leaves the game ||
-0d:3h:59m:21s  || <--- "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) leaves the game ||
-0d:23h:23m:11s || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
+0d:3h:55m:53s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+0d:3h:57m:32s  || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d): Connection to game server timed out ||
+0d:3h:59m:21s  || <--- "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07): Client left. ||
+0d:23h:23m:11s || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
 0d:3h:59m:21s  || ---- 0d:19h:23m:50s passes ||
-0d:23h:24m:43s || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
-1d:20h:38m:24s || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
+0d:23h:24m:43s || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||
+1d:20h:38m:24s || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
 0d:23h:24m:43s || ---- 0d:21h:13m:40s passes ||
-1d:20h:38m:42s || ---> "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) joins the game ||
-1d:20h:38m:45s || ---> "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) joins the game ||
+1d:20h:38m:42s || ---> "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) ||
+1d:20h:38m:45s || ---> "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) ||
 1d:20h:38m:53s |  Stam             hey
 1d:20h:38m:59s |  Sado             lo
 1d:20h:39m:8s  |  GEO{TBG}         DAT LOBBY
@@ -618,9 +618,9 @@
 1d:20h:48m:19s |  Stam             i wish i could hack in 1dm
 1d:20h:48m:48s |  Stam             i take part
 1d:20h:49m:13s |  GEO{TBG}         afk 4 a bit
-1d:20h:49m:24s || <--- "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) leaves the game ||
+1d:20h:49m:24s || <--- "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb): Connection to game server timed out ||
 1d:20h:49m:39s |  Stam             u afk
-1d:20h:49m:42s || ---> "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) joins the game ||
+1d:20h:49m:42s || ---> "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) ||
 1d:20h:49m:45s |  Sado             who ?
 1d:20h:49m:49s |  Stam             oh
 1d:20h:49m:50s |  Stam             geo
@@ -760,34 +760,34 @@
 1d:21h:17m:59s |  Stam             einai
 1d:21h:18m:2s  |  Stam             pointless
 1d:21h:18m:11s |  Stam             lets go ledows
-1d:21h:18m:30s || <--- "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07) leaves the game ||
+1d:21h:18m:30s || <--- "Sado" (4c7b3fab-92f1-47b2-8644-c8be49160d07): Client left. ||
 1d:21h:18m:45s |  Stam             evales autojoin
 1d:21h:18m:46s |  Stam             ?
 1d:21h:18m:53s |  GEO{TBG}         mpa 8a fygo
-1d:21h:18m:56s || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-1d:21h:19m:0s  || <--- "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) leaves the game ||
-1d:23h:8m:15s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
+1d:21h:18m:56s || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+1d:21h:19m:0s  || <--- "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb): Client left. ||
+1d:23h:8m:15s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
 1d:21h:19m:0s  || ---- 0d:1h:49m:14s passes ||
-1d:23h:10m:25s || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
-1d:23h:10m:34s || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
-1d:23h:14m:5s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
-2d:0h:34m:15s  || ---> "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) joins the game ||
+1d:23h:10m:25s || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||
+1d:23h:10m:34s || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
+1d:23h:14m:5s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||
+2d:0h:34m:15s  || ---> "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) ||
 1d:23h:14m:5s  || ---- 0d:1h:20m:10s passes ||
-2d:0h:38m:53s  || <--- "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) leaves the game ||
-2d:1h:3m:17s   || ---> "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) joins the game ||
-2d:1h:4m:5s    || <--- "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) leaves the game ||
-2d:1h:12m:10s  || ---> "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) joins the game ||
-2d:1h:19m:42s  || <--- "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) leaves the game ||
-3d:23h:37m:11s || ---> "Julkien{TBG}" (d51b4836-c0c8-4947-94ae-105206f6ab4d) joins the game ||
+2d:0h:38m:53s  || <--- "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8): Connection to game server timed out ||
+2d:1h:3m:17s   || ---> "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) ||
+2d:1h:4m:5s    || <--- "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8): Client left. ||
+2d:1h:12m:10s  || ---> "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8) ||
+2d:1h:19m:42s  || <--- "Not Magnetic Duck" (7811b8a5-eb98-4c35-9395-d1e89b4dc8f8): Connection to game server timed out ||
+3d:23h:37m:11s || ---> "Julkien{TBG}" (d51b4836-c0c8-4947-94ae-105206f6ab4d) ||
 2d:1h:19m:42s  || ---- 1d:22h:17m:29s passes ||
-3d:23h:39m:31s || <--- "Julkien{TBG}" (d51b4836-c0c8-4947-94ae-105206f6ab4d) leaves the game ||
-4d:0h:35m:26s  || ---> "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) joins the game ||
+3d:23h:39m:31s || <--- "Julkien{TBG}" (d51b4836-c0c8-4947-94ae-105206f6ab4d): Client left. ||
+4d:0h:35m:26s  || ---> "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) ||
 3d:23h:39m:31s || ---- 0d:0h:55m:55s passes ||
-4d:0h:35m:29s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
+4d:0h:35m:29s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
 4d:0h:35m:55s  |  Stam             Hey {TBG} Skymonster
 4d:0h:36m:10s  |  Stam             You are the team's best whale
 4d:0h:36m:22s  |  Stam             so?
-4d:0h:36m:26s  || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) joins the game ||
+4d:0h:36m:26s  || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) ||
 4d:0h:36m:40s  |  {TBG} Skymonster am I??
 4d:0h:36m:52s  |  Stam             ofc
 4d:0h:37m:20s  |  Stam             bscly u r the 2nd whale of the team
@@ -929,7 +929,7 @@
 4d:1h:3m:39s   |  Stam             going
 4d:1h:3m:45s   |  {TBG} Skymonster is it 19gmt then?
 4d:1h:3m:52s   |  Stam             18gmt
-4d:1h:3m:52s   || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) leaves the game ||
+4d:1h:3m:52s   || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d): Client left. ||
 4d:1h:3m:56s   |  Stam             always
 4d:1h:4m:2s    |  Stam             18gmt
 4d:1h:4m:4s    |  {TBG} Skymonster but isn't that 19cet?
@@ -952,7 +952,7 @@
 4d:1h:5m:29s   |  {TBG} Skymonster so it's already 6:46 gmt
 4d:1h:5m:33s   |  Stam             so u r 19
 4d:1h:5m:39s   |  {TBG} Skymonster and I am at 19:46
-4d:1h:5m:47s   || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) joins the game ||
+4d:1h:5m:47s   || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) ||
 4d:1h:5m:52s   |  Stam             oh fak
 4d:1h:6m:3s    |  Stam             HOW DIDNT I NOTICE?
 4d:1h:6m:12s   |  Stam             HOLY CRAP
@@ -968,12 +968,12 @@
 4d:1h:6m:57s   |  Magnetic Duck    ladder or Go, what will it be
 4d:1h:6m:57s   |  Magnetic Duck    yw
 4d:1h:6m:58s   |  Stam             ladder
-4d:1h:7m:11s   || <--- "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) leaves the game ||
-4d:1h:7m:23s   || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-4d:1h:7m:36s   || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) leaves the game ||
-4d:1h:55m:18s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
+4d:1h:7m:11s   || <--- "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0): Client left. ||
+4d:1h:7m:23s   || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+4d:1h:7m:36s   || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d): Client left. ||
+4d:1h:55m:18s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
 4d:1h:7m:36s   || ---- 0d:0h:47m:41s passes ||
-4d:1h:55m:55s  || ---> "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) joins the game ||
+4d:1h:55m:55s  || ---> "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) ||
 4d:1h:56m:8s   |  nuffhuff {TBG}   yo
 4d:1h:56m:10s  |  {TBG}RINGWRAITH  hey nuff
 4d:1h:56m:12s  |  {TBG}RINGWRAITH  ball?
@@ -1064,27 +1064,27 @@
 4d:2h:15m:17s  |  {TBG}RINGWRAITH  why isn;t that working...
 4d:2h:15m:20s  |  {TBG}RINGWRAITH  never mind
 4d:2h:15m:44s  |  nuffhuff {TBG}   whaaa
-4d:2h:15m:50s  || <--- "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) leaves the game ||
+4d:2h:15m:50s  || <--- "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88): Connection to game server timed out ||
 4d:2h:16m:3s   |  {TBG}RINGWRAITH  nuff?
-4d:2h:16m:21s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
-4d:2h:22m:34s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
-4d:2h:22m:38s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
-6d:3h:32m:36s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
+4d:2h:16m:21s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||
+4d:2h:22m:34s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
+4d:2h:22m:38s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||
+6d:3h:32m:36s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
 4d:2h:22m:38s  || ---- 2d:1h:9m:57s passes ||
-6d:3h:35m:15s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
-6d:14h:1m:21s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
+6d:3h:35m:15s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||
+6d:14h:1m:21s  || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
 6d:3h:35m:15s  || ---- 0d:10h:26m:6s passes ||
 6d:14h:5m:2s   |  Stam             Hi tolis
 6d:14h:5m:13s  |  Stam             ante  gamisouy
 6d:14h:5m:23s  |  Stam             eisai mlks
 6d:14h:5m:32s  |  Stam             stam is so proi
-6d:14h:5m:48s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-7d:19h:38m:39s || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
+6d:14h:5m:48s  || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+7d:19h:38m:39s || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
 6d:14h:5m:48s  || ---- 1d:5h:32m:51s passes ||
-7d:19h:41m:59s || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-8d:0h:1m:1s    || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
+7d:19h:41m:59s || <--- "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+8d:0h:1m:1s    || ---> "Stam" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
 7d:19h:41m:59s || ---- 0d:4h:19m:2s passes ||
-8d:0h:1m:12s   || ---> "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) joins the game ||
+8d:0h:1m:12s   || ---> "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) ||
 8d:0h:1m:19s   |  nuffhuff {TBG}   hey whats up man
 8d:0h:1m:27s   |  Stam             Hey nuffhuff {TBG}
 8d:0h:1m:32s   |  nuffhuff {TBG}   =D
@@ -1105,7 +1105,7 @@
 8d:0h:2m:52s   |  nuffhuff {TBG}   yeah
 8d:0h:2m:53s   |  nuffhuff {TBG}   lets go
 8d:0h:2m:58s   |  Stam             join blue
-8d:0h:3m:15s   || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
+8d:0h:3m:15s   || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
 8d:0h:3m:24s   |  {TBG}RINGWRAITH  hey guys
 8d:0h:3m:24s   |  Stam             hey ring
 8d:0h:4m:13s   |  Stam             dat
@@ -1154,7 +1154,7 @@
 8d:0h:9m:53s   |  Stam             tell him to join here
 8d:0h:9m:57s   |  Stam             tell him the code
 8d:0h:10m:0s   |  {TBG}RINGWRAITH  k
-8d:0h:10m:29s  || ---> "[MoxyFightCrimer]" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) joins the game ||
+8d:0h:10m:29s  || ---> "[MoxyFightCrimer]" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) ||
 8d:0h:10m:41s  |  {TBG}RINGWRAITH  hey moxy
 8d:0h:10m:43s  |  Stam             hey moxy
 8d:0h:10m:45s  |  nuffhuff {TBG}   hey
@@ -1162,7 +1162,7 @@
 8d:0h:11m:1s   |  nuffhuff {TBG}   2 2 tdm?
 8d:0h:11m:6s   |  nuffhuff {TBG}   1dm
 8d:0h:11m:7s   |  {TBG}RINGWRAITH  maybe not
-8d:0h:11m:9s   || ---> "[fluffy]" (0204199e-fee0-47fc-9c22-efcbbdedc9af) joins the game ||
+8d:0h:11m:9s   || ---> "[fluffy]" (0204199e-fee0-47fc-9c22-efcbbdedc9af) ||
 8d:0h:11m:16s  |  {TBG}RINGWRAITH  i might have to get off on a moments notice
 8d:0h:11m:26s  |  Stam             FLUFFY?!?!??
 8d:0h:11m:27s  |  {TBG}RINGWRAITH  fluffy has password?
@@ -1171,11 +1171,11 @@
 8d:0h:11m:41s  |  Stam             fluff?
 8d:0h:11m:48s  |  Stam             wtf
 8d:0h:11m:53s  |  [MoxyFightCrimer]yeah i do
-8d:0h:11m:54s  || <--- "[fluffy]" (0204199e-fee0-47fc-9c22-efcbbdedc9af) leaves the game ||
+8d:0h:11m:54s  || <--- "[fluffy]" (0204199e-fee0-47fc-9c22-efcbbdedc9af): Kicked by server admin. ||
 8d:0h:12m:7s   |  {TBG}RINGWRAITH  ban permanent
 8d:0h:12m:28s  |  Stam             moxy
 8d:0h:12m:31s  |  [MoxyFightCrimer]hi
-8d:0h:13m:12s  || <--- "[MoxyFightCrimer]" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) leaves the game ||
+8d:0h:13m:12s  || <--- "[MoxyFightCrimer]" (bf60335d-784f-4f31-98f8-3e0bb591b8c2): Client left. ||
 8d:0h:13m:12s  |  Stam             ring go azuree
 8d:0h:13m:18s  |  {TBG}RINGWRAITH  hold 
 8d:0h:13m:19s  |  {TBG}RINGWRAITH  akf
@@ -1183,7 +1183,7 @@
 8d:0h:14m:21s  |  nuffhuff {TBG}   f
 8d:0h:14m:23s  |  Stam             lol
 8d:0h:14m:45s  |  {TBG}RINGWRAITH  sprru, can't play
-8d:0h:14m:46s  || ---> "[fluffy]" (0204199e-fee0-47fc-9c22-efcbbdedc9af) joins the game ||
+8d:0h:14m:46s  || ---> "[fluffy]" (0204199e-fee0-47fc-9c22-efcbbdedc9af) ||
 8d:0h:14m:50s  |  [fluffy]         guys dont kick
 8d:0h:14m:53s  |  [fluffy]         i want to ask u
 8d:0h:14m:55s  |  Stam             fluff?
@@ -1197,7 +1197,7 @@
 8d:0h:15m:37s  |  Stam             ye i will change it
 8d:0h:15m:51s  |  [fluffy]         so no scrim?
 8d:0h:15m:56s  |  Stam             no
-8d:0h:16m:0s   || ---> "[MoxyFightCrimer]" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) joins the game ||
+8d:0h:16m:0s   || ---> "[MoxyFightCrimer]" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) ||
 8d:0h:16m:2s   |  [fluffy]         what kind of team is TBG
 8d:0h:16m:4s   |  Stam             do u want to join fluff?
 8d:0h:16m:5s   |  [MoxyFightCrimer]what's going on?
@@ -1211,7 +1211,7 @@
 8d:0h:16m:23s  |  {TBG}RINGWRAITH  k then
 8d:0h:16m:25s  |  Stam             y not ring?
 8d:0h:16m:26s  |  nuffhuff {TBG}   why not
-8d:0h:16m:29s  || ---> "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) joins the game ||
+8d:0h:16m:29s  || ---> "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) ||
 8d:0h:16m:46s  |  {TBG} Skymonster hi everyone!
 8d:0h:16m:47s  |  [MoxyFightCrimer]does fluffy want to join?
 8d:0h:16m:48s  |  [fluffy]         hi
@@ -1222,12 +1222,12 @@
 8d:0h:16m:58s  |  [fluffy]         how?
 8d:0h:17m:10s  |  {TBG}RINGWRAITH  ...
 8d:0h:17m:11s  |  [MoxyFightCrimer]fluff can't manage a clan on his own
-8d:0h:17m:21s  || ---> "Hyiga" (c3bfd6f5-79bf-4d0d-bc27-5194597c2bd4) joins the game ||
+8d:0h:17m:21s  || ---> "Hyiga" (c3bfd6f5-79bf-4d0d-bc27-5194597c2bd4) ||
 8d:0h:17m:25s  |  [MoxyFightCrimer]if u take both of us, we'll stand a better chance than with Misfit Toys
 8d:0h:17m:28s  |  Hyiga            hi
-8d:0h:17m:40s  || <--- "Hyiga" (c3bfd6f5-79bf-4d0d-bc27-5194597c2bd4) leaves the game ||
+8d:0h:17m:40s  || <--- "Hyiga" (c3bfd6f5-79bf-4d0d-bc27-5194597c2bd4): Kicked by server admin. ||
 8d:0h:17m:45s  |  {TBG}RINGWRAITH  everybody has pass?
-8d:0h:17m:48s  || ---> "Smile." (25c28e39-8c93-4adb-91c0-783cb9d75959) joins the game ||
+8d:0h:17m:48s  || ---> "Smile." (25c28e39-8c93-4adb-91c0-783cb9d75959) ||
 8d:0h:17m:49s  |  [fluffy]         dude
 8d:0h:17m:53s  |  Stam             I WILL CHANGE IT
 8d:0h:17m:54s  |  [fluffy]         the pass is literally ur clan name
@@ -1257,7 +1257,7 @@
 8d:0h:21m:5s   |  [fluffy]         ill add mine
 8d:0h:21m:14s  |  Stam             kk
 8d:0h:21m:20s  |  Stam             i will pm both of u
-8d:0h:21m:25s  || ---> "Hyiga{TBG}" (c3bfd6f5-79bf-4d0d-bc27-5194597c2bd4) joins the game ||
+8d:0h:21m:25s  || ---> "Hyiga{TBG}" (c3bfd6f5-79bf-4d0d-bc27-5194597c2bd4) ||
 8d:0h:21m:27s  |  Stam             no smile change map
 8d:0h:21m:37s  |  Smile.           k
 8d:0h:21m:40s  |  [fluffy]         oh shit its TBG?
@@ -1269,7 +1269,7 @@
 8d:0h:22m:12s  |  [fluffy]         oh, where hyiga goes, i go
 8d:0h:22m:16s  |  [fluffy]         hes in TBG as well, ok?
 8d:0h:22m:21s  |  Hyiga{TBG}       ok
-8d:0h:22m:30s  || <--- "Hyiga{TBG}" (c3bfd6f5-79bf-4d0d-bc27-5194597c2bd4) leaves the game ||
+8d:0h:22m:30s  || <--- "Hyiga{TBG}" (c3bfd6f5-79bf-4d0d-bc27-5194597c2bd4): Banned by Stam for 20 years. Reason: noob ||
 8d:0h:22m:34s  |  Smile.           lol
 8d:0h:22m:34s  |  nuffhuff {TBG}   lmao
 8d:0h:22m:36s  |  [fluffy]         wtf why did u ban him?
@@ -1278,7 +1278,7 @@
 8d:0h:23m:6s   |  Stam             i didnt tell hyiga to join tbg
 8d:0h:23m:7s   |  [fluffy]         he is pretty good
 8d:0h:23m:15s  |  {TBG} Skymonster aww
-8d:0h:23m:21s  || ---> "binaryenigma{TBG}" (afb521c3-1774-4a9c-83ea-47d926baa800) joins the game ||
+8d:0h:23m:21s  || ---> "binaryenigma{TBG}" (afb521c3-1774-4a9c-83ea-47d926baa800) ||
 8d:0h:23m:22s  |  Stam             i am the leader
 8d:0h:23m:29s  |  binaryenigma{TBG}hi
 8d:0h:23m:29s  |  Stam             i choose whos in
@@ -1287,7 +1287,7 @@
 8d:0h:23m:38s  |  Stam             binary
 8d:0h:23m:38s  |  binaryenigma{TBG}hi
 8d:0h:23m:44s  |  [fluffy]         can i choose as well? like some sort of power?
-8d:0h:23m:52s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
+8d:0h:23m:52s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||
 8d:0h:24m:19s  |  {TBG} Skymonster hehe
 8d:0h:24m:22s  |  [fluffy]         stam why dont u wear the tag?
 8d:0h:24m:35s  |  Stam             it doesnt fit my name
@@ -1344,7 +1344,7 @@
 8d:0h:31m:23s  |  [fluffy]         however, the name itself is pretty shit
 8d:0h:31m:36s  |  Stam             the name of the team wont change
 8d:0h:31m:37s  |  Smile.           n
-8d:0h:31m:44s  || <--- "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) leaves the game ||
+8d:0h:31m:44s  || <--- "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2): Validation failed: User logged out. ||
 8d:0h:31m:44s  |  Stam             accept it as it is or leave
 8d:0h:31m:52s  |  [fluffy]         u want me to leave?
 8d:0h:32m:0s   |  [fluffy]         i will take the followers with me
@@ -1356,17 +1356,17 @@
 8d:0h:32m:20s  |  binaryenigma{TBG}lol
 8d:0h:32m:21s  |  Stam             ?
 8d:0h:32m:23s  |  [fluffy]         the true heir to the TBG throne
-8d:0h:32m:33s  || ---> "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) joins the game ||
+8d:0h:32m:33s  || ---> "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) ||
 8d:0h:32m:34s  |  Stam             srsly now
 8d:0h:32m:46s  |  [fluffy]         if you do not meet OUR demands, we will have to throw you out
 8d:0h:32m:59s  |  Smile.           so much trolling
 8d:0h:33m:5s   |  [fluffy]         this is no troll
 8d:0h:33m:8s   |  [fluffy]         i assure u
-8d:0h:33m:8s   || <--- "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af) leaves the game ||
-8d:0h:33m:39s  || ---> "Twinky" (12d58762-4f68-4c0d-8982-93010742ab90) joins the game ||
+8d:0h:33m:8s   || <--- "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af): Kicked by server admin. ||
+8d:0h:33m:39s  || ---> "Twinky" (12d58762-4f68-4c0d-8982-93010742ab90) ||
 8d:0h:33m:55s  |  Twinky           sup?
 8d:0h:33m:57s  |  Smile.           sup
-8d:0h:34m:11s  || <--- "Twinky" (12d58762-4f68-4c0d-8982-93010742ab90) leaves the game ||
+8d:0h:34m:11s  || <--- "Twinky" (12d58762-4f68-4c0d-8982-93010742ab90): Banned by Stam for 20 years. Reason: d ||
 8d:0h:34m:15s  |  binaryenigma{TBG}lol
 8d:0h:34m:15s  |  Smile.           wow
 8d:0h:34m:17s  |  Smile.           lmao
@@ -1375,28 +1375,28 @@
 8d:0h:34m:25s  |  Stam             :p
 8d:0h:35m:9s   |  nuffhuff {TBG}   BALL
 8d:0h:36m:5s   |  {TBG} Skymonster looks good
-8d:0h:36m:9s   || <--- "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959) leaves the game ||
-8d:0h:36m:36s  || ---> "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959) joins the game ||
-8d:0h:36m:44s  || <--- "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) leaves the game ||
+8d:0h:36m:9s   || <--- "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959): Connection to game server timed out ||
+8d:0h:36m:36s  || ---> "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959) ||
+8d:0h:36m:44s  || <--- "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2): Client left. ||
 8d:0h:36m:55s  |  binaryenigma{TBG}in
 8d:0h:37m:16s  |  {TBG} Skymonster oh dear
 8d:0h:38m:4s   |  binaryenigma{TBG}lol
-8d:0h:38m:7s   || <--- "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959) leaves the game ||
+8d:0h:38m:7s   || <--- "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959): Connection to game server timed out ||
 8d:0h:38m:34s  |  {TBG} Skymonster vns
 8d:0h:38m:34s  |  nuffhuff {TBG}   lol
 8d:0h:38m:38s  |  Stam             tdy
 8d:0h:38m:40s  |  Stam             ty
-8d:0h:39m:1s   || ---> "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959) joins the game ||
+8d:0h:39m:1s   || ---> "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959) ||
 8d:0h:40m:13s  |  binaryenigma{TBG}n
 8d:0h:40m:15s  |  nuffhuff {TBG}   t
-8d:0h:40m:34s  || <--- "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959) leaves the game ||
-8d:0h:40m:42s  || ---> "crack ;)" (ee4ef08f-4a53-431e-a23b-1626d9a0bee2) joins the game ||
+8d:0h:40m:34s  || <--- "Smile{TBG}" (25c28e39-8c93-4adb-91c0-783cb9d75959): Client left. ||
+8d:0h:40m:42s  || ---> "crack ;)" (ee4ef08f-4a53-431e-a23b-1626d9a0bee2) ||
 8d:0h:41m:3s   |  binaryenigma{TBG}be back later
 8d:0h:41m:5s   |  binaryenigma{TBG}cya
 8d:0h:41m:8s   |  nuffhuff {TBG}   yo crack
-8d:0h:41m:8s   || <--- "binaryenigma{TBG}" (afb521c3-1774-4a9c-83ea-47d926baa800) leaves the game ||
+8d:0h:41m:8s   || <--- "binaryenigma{TBG}" (afb521c3-1774-4a9c-83ea-47d926baa800): Client left. ||
 8d:0h:41m:12s  |  crack ;)         ey
-8d:0h:41m:24s  || <--- "crack ;)" (ee4ef08f-4a53-431e-a23b-1626d9a0bee2) leaves the game ||
+8d:0h:41m:24s  || <--- "crack ;)" (ee4ef08f-4a53-431e-a23b-1626d9a0bee2): Banned by Stam{TBG} for 20 years. Reason: kd ||
 8d:0h:41m:27s  |  nuffhuff {TBG}   lol
 8d:0h:41m:38s  |  Stam             none of them are tbg
 8d:0h:41m:43s  |  nuffhuff {TBG}   i know
@@ -1406,14 +1406,14 @@
 8d:0h:42m:17s  |  {TBG} Skymonster is there no whitelist-function for this server?
 8d:0h:42m:53s  |  Stam             any 1 of u crash
 8d:0h:42m:59s  |  Stam             and join the other team
-8d:0h:44m:3s   || ---> "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af) joins the game ||
+8d:0h:44m:3s   || ---> "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af) ||
 8d:0h:44m:8s   |  {TGB}            after being kicked
 8d:0h:44m:13s  |  {TGB}            i have been made co-leader of tBG
 8d:0h:44m:26s  |  Stam             no u r not
 8d:0h:44m:30s  |  Stam             cuz u lied
 8d:0h:44m:33s  |  {TGB}            i have evidence
 8d:0h:44m:39s  |  {TGB}            do you dare use this against me?
-8d:0h:44m:49s  || <--- "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af) leaves the game ||
+8d:0h:44m:49s  || <--- "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af): Connection to game server timed out ||
 8d:0h:44m:52s  |  {TBG} Skymonster gotcha
 8d:0h:44m:53s  |  Stam             show me ur evidence
 8d:0h:44m:57s  |  nuffhuff {TBG}   =]
@@ -1431,7 +1431,7 @@
 8d:0h:46m:20s  |  Stam             ok?
 8d:0h:46m:21s  |  nuffhuff {TBG}   mats
 8d:0h:46m:23s  |  nuffhuff {TBG}   gt it
-8d:0h:46m:26s  || ---> "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af) joins the game ||
+8d:0h:46m:26s  || ---> "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af) ||
 8d:0h:46m:29s  |  {TGB}            http://prntscr.com/8zej7s
 8d:0h:46m:32s  |  {TGB}            evidence^
 8d:0h:46m:34s  |  Stam             kk
@@ -1444,8 +1444,8 @@
 8d:0h:47m:13s  |  {TGB}            then making me coleader
 8d:0h:47m:14s  |  nuffhuff {TBG}   got em
 8d:0h:47m:15s  |  {TGB}            corruption!
-8d:0h:47m:18s  || <--- "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af) leaves the game ||
-8d:0h:48m:3s   || ---> "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) joins the game ||
+8d:0h:47m:18s  || <--- "{TGB}" (0204199e-fee0-47fc-9c22-efcbbdedc9af): Client left. ||
+8d:0h:48m:3s   || ---> "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) ||
 8d:0h:48m:5s   |  {TBG} Skymonster oops
 8d:0h:48m:11s  |  nuffhuff {TBG}   nt
 8d:0h:48m:25s  |  {TBG}            anyone want to rev ta duel me after?
@@ -1455,18 +1455,18 @@
 8d:0h:48m:43s  |  nuffhuff {TBG}   =]
 8d:0h:49m:7s   |  {TBG} Skymonster I gotta go, seeya later
 8d:0h:49m:10s  |  nuffhuff {TBG}   bb
-8d:0h:49m:15s  || <--- "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0) leaves the game ||
+8d:0h:49m:15s  || <--- "{TBG} Skymonster" (801f031a-4ad4-4c5f-8368-1f9f60ddf9c0): Client left. ||
 8d:0h:49m:19s  |  {TBG}            stop tournament
 8d:0h:49m:40s  |  {TBG}            stam
 8d:0h:49m:54s  |  {TBG}            i can't vote to stop tournament
-8d:0h:50m:13s  || ---> "|PewPew| x76" (f22e4497-c921-4004-aee8-32d40bf46f1e) joins the game ||
+8d:0h:50m:13s  || ---> "|PewPew| x76" (f22e4497-c921-4004-aee8-32d40bf46f1e) ||
 8d:0h:50m:21s  |  {TBG}            dummy
-8d:0h:50m:23s  || <--- "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2) leaves the game ||
-8d:0h:50m:24s  || <--- "Stam{TBG}" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-8d:0h:50m:45s  || <--- "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) leaves the game ||
-8d:0h:51m:26s  || ---> "Stam{TBG}" (f4d0b170-2877-4a92-90eb-eb950a57c636) joins the game ||
-8d:0h:51m:56s  || ---> "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) joins the game ||
-8d:0h:51m:58s  || <--- "|PewPew| x76" (f22e4497-c921-4004-aee8-32d40bf46f1e) leaves the game ||
+8d:0h:50m:23s  || <--- "{TBG}" (bf60335d-784f-4f31-98f8-3e0bb591b8c2): Client left. ||
+8d:0h:50m:24s  || <--- "Stam{TBG}" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+8d:0h:50m:45s  || <--- "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88): Client left. ||
+8d:0h:51m:26s  || ---> "Stam{TBG}" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
+8d:0h:51m:56s  || ---> "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) ||
+8d:0h:51m:58s  || <--- "|PewPew| x76" (f22e4497-c921-4004-aee8-32d40bf46f1e): Banned by Stam{TBG} for 20 years. Reason: ddf ||
 8d:0h:52m:4s   |  Stam{TBG}        sry nuff
 8d:0h:52m:9s   |  nuffhuff {TBG}   no worries
 8d:0h:52m:13s  |  Stam{TBG}        a lot of peeps are joinin
@@ -1513,10 +1513,10 @@
 8d:1h:0m:15s   |  Stam{TBG}        gtg
 8d:1h:0m:16s   |  Stam{TBG}        sry
 8d:1h:0m:18s   |  nuffhuff {TBG}   al good
-8d:1h:0m:18s   || <--- "Stam{TBG}" (f4d0b170-2877-4a92-90eb-eb950a57c636) leaves the game ||
-8d:1h:0m:22s   || <--- "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88) leaves the game ||
-8d:1h:15m:53s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
-8d:1h:16m:59s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
-8d:2h:16m:37s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) joins the game ||
+8d:1h:0m:18s   || <--- "Stam{TBG}" (f4d0b170-2877-4a92-90eb-eb950a57c636): Client left. ||
+8d:1h:0m:22s   || <--- "nuffhuff {TBG}" (2ac67d3a-3103-4443-9fb4-1d72219ddb88): Client left. ||
+8d:1h:15m:53s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
+8d:1h:16m:59s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||
+8d:2h:16m:37s  || ---> "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) ||
 8d:1h:16m:59s  || ---- 0d:0h:59m:37s passes ||
-8d:2h:16m:38s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024) leaves the game ||
+8d:2h:16m:38s  || <--- "{TBG}RINGWRAITH" (2cc35ae9-dd99-413b-bbd3-2e1a4ac5b024): Client left. ||

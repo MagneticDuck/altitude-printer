@@ -32,7 +32,7 @@ data Player = Player
 data EventAction =
   ChatEvent PlayerID String  -- ^ a player says something
   | JoinEvent Player -- ^ a player enters the server
-  | LeaveEvent Player -- ^ a player leaves the server
+  | LeaveEvent Player String -- ^ a player leaves the server
   | MoveEvent PlayerID Int -- ^ a player moves to a team
   deriving (Show, Eq)
 
@@ -66,7 +66,10 @@ actionFromAttrs attrs =
         player <- intFromValue =<< attr "player"
         return $ ChatEvent player message
       Just "clientAdd" -> JoinEvent <$> getPlayerInfo
-      Just "clientRemove" -> LeaveEvent <$> getPlayerInfo
+      Just "clientRemove" -> do
+        player <- getPlayerInfo
+        reason <- stringFromValue =<< attr "reason"
+        return $ LeaveEvent player reason
       Just "teamChange" -> do
         player <- intFromValue =<< attr "player"
         team <- intFromValue =<< attr "team"

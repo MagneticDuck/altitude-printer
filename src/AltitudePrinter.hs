@@ -50,14 +50,14 @@ logEvent (Event time action) = do
         [ "---> "
         , "\"", getNick player
         , "\" (" , getVaporID player
-        , ") joins the game" ]
-    LeaveEvent player -> do
+        , ")" ]
+    LeaveEvent player reason -> do
       put (ServerState time (filter ((/= getPlayerID player) . getPlayerID) players))
       return . (:[]) . LogElement time Nothing . concat $
         [ "<--- "
         , "\"", getNick player
         , "\" (", getVaporID player
-        , ") leaves the game" ]
+        , "): ", reason ]
     _ -> return []
 
 logEvents :: [Event] -> [LogElement]
