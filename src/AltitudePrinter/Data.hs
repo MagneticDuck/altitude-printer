@@ -2,13 +2,15 @@
 Datatypes, as written by the server, with fast parsing functions.
 -}
 module AltitudePrinter.Data
-    ( PlayerID , VaporID, Nick
-    , Player
-    ,
+    ( PlayerID, VaporID, Nick
+    , Player(..)
+    , EventAction(..), Event(..)
+    , eventsFromLog
     ) where
 
 import Text.JSON
 import Data.List
+import Data.Maybe
 
 {-------------------------------------------------------------------------------
 * Periphiral Datatypes
@@ -23,8 +25,6 @@ data Player = Player
   , getVaporID :: VaporID
   , getNick :: Nick } deriving (Show, Eq)
 
-type Tourny = Bool
-
 {-------------------------------------------------------------------------------
 * Event
 -------------------------------------------------------------------------------}
@@ -36,12 +36,15 @@ data EventAction =
   | MoveEvent PlayerID Int -- ^ a player moves to a team
   deriving (Show, Eq)
 
-data Event = Event Int EventAction
+data Event = Event Int EventAction deriving (Show, Eq)
 
 eventFromLog  :: String -> Maybe Event
 eventFromLog str = case decode str of
   Ok a -> parseJson a
   Error _ -> Nothing
+
+eventsFromLog :: String -> [Event]
+eventsFromLog = mapMaybe eventFromLog . lines
 
 {-------------------------------------------------------------------------------
 * parsing from LogAttrs
