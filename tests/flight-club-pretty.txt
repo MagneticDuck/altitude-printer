@@ -1,0 +1,1013 @@
+0d:0h:0m:11s  || ---- switched to map lobby_club ||
+0d:0h:0m:12s  || ---> "Capitalism!" (13dcd5b1-6ec0-4494-87ad-7b70c116abc2) ||
+0d:0h:0m:12s  || ---> "Stam{TBG}" (f4d0b170-2877-4a92-90eb-eb950a57c636) ||
+0d:0h:0m:12s  || ---> "Lelouch of Britannia" (4c7b3fab-92f1-47b2-8644-c8be49160d07) ||
+0d:0h:0m:12s  || ---> "Rockwell !" (2ce1d6be-d8e7-4d27-8faf-b57fc8b4a1cb) ||
+0d:0h:0m:12s  || ---> "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d) ||
+0d:0h:0m:15s  |  Magnetic Duck       .clear
+0d:0h:0m:17s  || ---> "youngHOmEskillet" (9c00dade-131b-4122-ba8d-05f978827115) ||
+0d:0h:0m:17s  |  Magnetic Duck       .move duck right
+0d:0h:0m:18s  || ---> "HENK{TBG}" (21d84c21-8507-496a-ad09-5cb9eae0a998) ||
+0d:0h:0m:19s  || ---> "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb) ||
+0d:0h:0m:19s  || ---> "OsOs{TBG}" (99d32493-166a-4519-a630-40411f15e060) ||
+0d:0h:0m:20s  |  Magnetic Duck       .move stam left
+0d:0h:0m:21s  || <--- "Rockwell !" (2ce1d6be-d8e7-4d27-8faf-b57fc8b4a1cb): Client left. ||
+0d:0h:0m:21s  || ---> "Rockwell !" (2ce1d6be-d8e7-4d27-8faf-b57fc8b4a1cb) ||
+0d:0h:0m:22s  |  Magnetic Duck       .move henk left
+0d:0h:0m:22s  || ---> "Kluss" (63575881-ac22-4496-bdf0-1d911d27bcf4) ||
+0d:0h:0m:23s  |  Magnetic Duck       .move geo left
+0d:0h:0m:26s  |  Magnetic Duck       .tourny
+0d:0h:0m:30s  |  Magnetic Duck       .move osos left
+0d:0h:0m:32s  |  Magnetic Duck       .move kluss right
+0d:0h:0m:32s  || <--- "Lelouch of Britannia" (4c7b3fab-92f1-47b2-8644-c8be49160d07): Connection to game server timed out ||
+0d:0h:0m:36s  |  Magnetic Duck       .move rock left
+0d:0h:0m:39s  |  Rockwell !          hey i need to..
+0d:0h:0m:40s  |  Magnetic Duck       .move cap right
+0d:0h:0m:42s  |  Rockwell !          nvm.
+0d:0h:0m:42s  || ---> "Lelouch of Britannia" (4c7b3fab-92f1-47b2-8644-c8be49160d07) ||
+0d:0h:0m:42s  |  Magnetic Duck       .move young right
+0d:0h:0m:49s  |  Magnetic Duck       okay
+0d:0h:0m:55s  |  Stam{TBG}           ok guys lets do it
+0d:0h:0m:56s  |  Magnetic Duck       hmm
+0d:0h:0m:57s  |  OsOs{TBG}           now thats the first time we play together i think
+0d:0h:1m:2s   |  Magnetic Duck       sado will play on right team for the moment
+0d:0h:1m:3s   |  Stam{TBG}           .move le right
+0d:0h:1m:8s   |  Magnetic Duck       okay
+0d:0h:1m:8s   |  GEO{TBG}            plz i dont have time
+0d:0h:1m:9s   |  Magnetic Duck       glhf
+0d:0h:1m:12s  |  Magnetic Duck       playing 5v5 ball
+0d:0h:1m:19s  |  Magnetic Duck       you don't have time geo?
+0d:0h:1m:19s  |  HENK{TBG}           I have 25 minutes :)
+0d:0h:1m:19s  |  Rockwell !          aille
+0d:0h:1m:23s  |  Magnetic Duck       k let's go
+0d:0h:1m:26s  |  OsOs{TBG}           i have 30
+0d:0h:1m:27s  |  OsOs{TBG}           go
+0d:0h:1m:29s  || ---- switched to map ball_grotto ||
+0d:0h:1m:32s  |  Capitalism!         same
+0d:0h:1m:32s  |  Rockwell !          O YE
+0d:0h:1m:38s  |  Rockwell !          no.
+0d:0h:1m:45s  |  Stam{TBG}           rockwell and henk and osos
+0d:0h:1m:48s  |  Stam{TBG}           hard def
+0d:0h:2m:16s  |  Rockwell !          stam, i will MUWDEW u
+0d:0h:2m:25s  |  OsOs{TBG}           well
+0d:0h:2m:56s  |  HENK{TBG}           rape
+0d:0h:2m:56s  |  Stam{TBG}           cmon
+0d:0h:2m:58s  |  Stam{TBG}           def
+0d:0h:2m:58s  || ---> "<8) Kennedy" (f0815906-5a2b-4eba-bc6e-ea7092f37cfb) ||
+0d:0h:3m:15s  |  Magnetic Duck       hm
+0d:0h:3m:15s  |  Stam{TBG}           DEF
+0d:0h:3m:17s  |  OsOs{TBG}           attck is very weak too
+0d:0h:3m:17s  || ---> "<8) Xalri" (a9d97c25-09a5-432f-b221-7e3162296424) ||
+0d:0h:3m:18s  |  Magnetic Duck       .move kenn right
+0d:0h:3m:18s  || <--- "<8) Kennedy" (f0815906-5a2b-4eba-bc6e-ea7092f37cfb): Client left. ||
+0d:0h:3m:19s  |  Stam{TBG}           EVERYIONE
+0d:0h:3m:21s  |  Magnetic Duck       uhk
+0d:0h:3m:32s  |  Rockwell !          DEF MEANS U TOO
+0d:0h:3m:33s  |  OsOs{TBG}           not working
+0d:0h:3m:35s  |  Magnetic Duck       no
+0d:0h:3m:35s  |  Stam{TBG}           FORGET ATTACK
+0d:0h:3m:37s  || <--- "<8) Xalri" (a9d97c25-09a5-432f-b221-7e3162296424): Connection to game server timed out ||
+0d:0h:4m:14s  |  Stam{TBG}           nt
+0d:0h:4m:28s  |  Stam{TBG}           keep trying
+0d:0h:4m:35s  |  youngHOmEskillet    gg
+0d:0h:4m:35s  |  Rockwell !          getting very discouraged here!
+0d:0h:4m:36s  |  HENK{TBG}           lol
+0d:0h:4m:37s  |  Stam{TBG}           ahh
+0d:0h:4m:37s  |  Magnetic Duck       okay
+0d:0h:4m:39s  |  OsOs{TBG}           good
+0d:0h:4m:39s  |  Magnetic Duck       now
+0d:0h:4m:40s  |  Stam{TBG}           rematch
+0d:0h:4m:43s  |  Magnetic Duck       in SL, the teams are like this
+0d:0h:4m:43s  |  Rockwell !          no...
+0d:0h:4m:44s  |  Stam{TBG}           we have them
+0d:0h:4m:44s  |  OsOs{TBG}           need more time
+0d:0h:4m:45s  |  Capitalism!         dat teamwork
+0d:0h:4m:47s  |  Magnetic Duck       except much much better
+0d:0h:4m:48s  |  Stam{TBG}           we now have a plan
+0d:0h:4m:50s  || ---- switched to map lobby_club ||
+0d:0h:4m:53s  |  Rockwell !          no we don't
+0d:0h:4m:55s  |  Capitalism!         lol
+0d:0h:4m:59s  |  youngHOmEskillet    rofl
+0d:0h:5m:2s   |  HENK{TBG}           That's why it's called training. 
+0d:0h:5m:3s   |  Stam{TBG}           guys remember
+0d:0h:5m:5s   |  youngHOmEskillet    "now we have a plan"
+0d:0h:5m:6s   |  Stam{TBG}           if u def
+0d:0h:5m:6s   |  Magnetic Duck       .swapteams
+0d:0h:5m:9s   |  HENK{TBG}           Getting raped is okay. :)
+0d:0h:5m:9s   |  youngHOmEskillet    "no we dont"
+0d:0h:5m:11s  |  Stam{TBG}           u can win everyone
+0d:0h:5m:18s  |  Magnetic Duck       what I want these scrims to show you
+0d:0h:5m:18s  |  GEO{TBG}            ok den lets go
+0d:0h:5m:20s  |  Magnetic Duck       is that you have to work
+0d:0h:5m:23s  |  Magnetic Duck       and you have to change your habits
+0d:0h:5m:25s  |  OsOs{TBG}           def is not for loopys and bis only ...
+0d:0h:5m:27s  |  Magnetic Duck       if you want a chance in competition
+0d:0h:5m:30s  |  Stam{TBG}           with def u kill and then u have the map clear to score
+0d:0h:5m:34s  |  Rockwell !          think, what were the randoms doing that we weren't
+0d:0h:5m:39s  |  youngHOmEskillet    thats some good advice
+0d:0h:5m:41s  |  Magnetic Duck       do you want a little bit of time to talk this over as a team before the next game?
+0d:0h:5m:42s  |  Stam{TBG}           deffing
+0d:0h:5m:44s  |  Rockwell !          they formed a massive wall of redness planes!
+0d:0h:5m:45s  |  Stam{TBG}           thats all
+0d:0h:5m:47s  |  Magnetic Duck       pick some strategy, and try to do it
+0d:0h:5m:51s  |  Rockwell !          :<
+0d:0h:5m:53s  |  Magnetic Duck       figure out what doesn't work
+0d:0h:5m:54s  |  Magnetic Duck       try again
+0d:0h:5m:54s  |  OsOs{TBG}           we need a whale guys
+0d:0h:5m:57s  |  youngHOmEskillet    maybe you should give them some ideas
+0d:0h:6m:1s   |  Stam{TBG}           we also miss our 2 good whales
+0d:0h:6m:3s   |  youngHOmEskillet    working it out on your own is very hard
+0d:0h:6m:4s   |  Magnetic Duck       keep doing that; you'll eventually win or give up
+0d:0h:6m:5s   |  Rockwell !          we need to work together more.
+0d:0h:6m:5s   |  Magnetic Duck       yeah
+0d:0h:6m:10s  |  OsOs{TBG}           yeh
+0d:0h:6m:11s  |  Magnetic Duck       let's start off with the basics
+0d:0h:6m:11s  |  Stam{TBG}           moxy and nuffhuff
+0d:0h:6m:13s  |  Magnetic Duck       plane composition
+0d:0h:6m:15s  |  GEO{TBG}            can we do the remath?
+0d:0h:6m:20s  |  OsOs{TBG}           yes
+0d:0h:6m:21s  |  Rockwell !          MATH?!
+0d:0h:6m:21s  |  Stam{TBG}           rematch
+0d:0h:6m:26s  |  youngHOmEskillet    just let them play
+0d:0h:6m:27s  |  OsOs{TBG}           but we dont want to be raped again
+0d:0h:6m:29s  |  Magnetic Duck       k
+0d:0h:6m:29s  |  Capitalism!         and communicate mainly i thinz
+0d:0h:6m:30s  |  Rockwell !          i'll just sit and watch.
+0d:0h:6m:30s  |  Magnetic Duck       okay
+0d:0h:6m:32s  |  youngHOmEskillet    when they lose enough they will have to 
+0d:0h:6m:35s  |  youngHOmEskillet    think
+0d:0h:6m:36s  || ---- switched to map ball_asteroids ||
+0d:0h:6m:43s  |  Rockwell !          stam, you can tell me when you've gotten your affairs in order
+0d:0h:6m:46s  |  HENK{TBG}           Nooo Not Astroids...
+0d:0h:6m:50s  |  Rockwell !          when u get that together, i'll play
+0d:0h:6m:57s  |  Capitalism!         rock
+0d:0h:6m:57s  |  Rockwell !          who am i talking to?
+0d:0h:7m:4s   |  Magnetic Duck       ty
+0d:0h:7m:4s   |  Rockwell !          let me sit and watch
+0d:0h:7m:9s   |  Capitalism!         cmon i wanna play
+0d:0h:7m:9s   |  Stam{TBG}           mb
+0d:0h:7m:13s  |  Capitalism!         and 5v5 is best
+0d:0h:7m:18s  |  Rockwell !          i'll play once stam gets his affairs in order.
+0d:0h:7m:20s  |  HENK{TBG}           They stay together... 
+0d:0h:7m:31s  || ---> "Knifehand" (77c6b4ac-c78b-4b2f-afdb-cc71b63d433e) ||
+0d:0h:7m:51s  |  Magnetic Duck       uh
+0d:0h:7m:51s  |  Stam{TBG}           rockwell join
+0d:0h:7m:55s  |  Magnetic Duck       .move duck right
+0d:0h:8m:0s   || <--- "Knifehand" (77c6b4ac-c78b-4b2f-afdb-cc71b63d433e): Client left. ||
+0d:0h:8m:1s   |  Rockwell !          no way
+0d:0h:8m:13s  |  HENK{TBG}           lol
+0d:0h:8m:22s  |  Rockwell !          i just want to see how this turns out.
+0d:0h:8m:41s  |  Stam{TBG}           push
+0d:0h:8m:48s  |  Lelouch of Britanniadoh
+0d:0h:9m:7s   |  GEO{TBG}            NMO
+0d:0h:9m:40s  |  Rockwell !          okay, i'm joining.
+0d:0h:9m:49s  |  HENK{TBG}           nt
+0d:0h:9m:51s  |  Magnetic Duck       rofl
+0d:0h:10m:2s  || ---> "jaminsky" (53491499-2566-4a4c-9776-812dacb50c41) ||
+0d:0h:10m:16s |  jaminsky            throw me on red?
+0d:0h:10m:19s |  youngHOmEskillet    nice
+0d:0h:10m:19s |  Stam{TBG}           VN
+0d:0h:10m:20s |  OsOs{TBG}           good
+0d:0h:10m:28s |  Magnetic Duck       .move jam left
+0d:0h:10m:33s |  jaminsky            ta
+0d:0h:11m:4s  |  Capitalism!         bleh
+0d:0h:11m:24s |  Capitalism!         lol
+0d:0h:12m:20s |  youngHOmEskillet    nw
+0d:0h:12m:40s || ---> "bagelnagel" (bc7afd0b-f127-4eb0-a726-dac9ba7207cf) ||
+0d:0h:12m:46s |  bagelnagel          hey stinkies
+0d:0h:12m:49s |  Capitalism!         my nagel
+0d:0h:12m:49s |  Rockwell !          lol
+0d:0h:12m:55s |  Magnetic Duck       uh
+0d:0h:12m:58s |  Magnetic Duck       lol
+0d:0h:13m:0s  |  Rockwell !          bagely!
+0d:0h:13m:2s  |  bagelnagel          5 vs 6
+0d:0h:13m:7s  |  Magnetic Duck       yes
+0d:0h:13m:12s |  bagelnagel          kluss??
+0d:0h:13m:17s || ---> "[fluffy]" (0204199e-fee0-47fc-9c22-efcbbdedc9af) ||
+0d:0h:13m:21s |  Rockwell !          oh shit.
+0d:0h:13m:30s |  [fluffy]            ! TBG TBG TBG
+0d:0h:13m:51s || ---> "{Phyx}" (02a33655-b2eb-42c2-bc88-fff24240f0d8) ||
+0d:0h:14m:4s  |  {Phyx}              what is this
+0d:0h:14m:11s |  Magnetic Duck       tbg scrim
+0d:0h:14m:11s || ---> "Toasty" (d03bf074-aaba-436f-b521-51176c1bd4a8) ||
+0d:0h:14m:27s |  Magnetic Duck       lol
+0d:0h:14m:28s |  youngHOmEskillet    gg
+0d:0h:14m:28s |  bagelnagel          wow
+0d:0h:14m:28s |  jaminsky            n
+0d:0h:14m:28s |  GEO{TBG}            no]
+0d:0h:14m:29s |  Rockwell !          are u fucking
+0d:0h:14m:29s |  Capitalism!         gg
+0d:0h:14m:30s |  OsOs{TBG}           and we lose again
+0d:0h:14m:31s |  Magnetic Duck       okay
+0d:0h:14m:33s |  Lelouch of Britannia#reky
+0d:0h:14m:35s |  Magnetic Duck       well this is working better
+0d:0h:14m:35s |  Lelouch of Britanniarekt
+0d:0h:14m:36s |  bagelnagel          brrrrnnnnndddd
+0d:0h:14m:36s |  Stam{TBG}           we miss our whales
+0d:0h:14m:40s || ---- switched to map ball_ice ||
+0d:0h:14m:45s |  Toasty              scrim going on?
+0d:0h:14m:48s |  Stam{TBG}           thats the prob
+0d:0h:14m:49s |  Magnetic Duck       .swapteams
+0d:0h:14m:49s |  GEO{TBG}            i gtgo now
+0d:0h:14m:50s |  Rockwell !          i ALMOST feel like i want to stay in this clan
+0d:0h:14m:52s |  GEO{TBG}            bb
+0d:0h:14m:53s |  jaminsky            lets get nagel in here
+0d:0h:14m:55s |  bagelnagel          8(((((((((((((((()))))))))))))))))
+0d:0h:14m:58s || <--- "GEO{TBG}" (7d3c98f3-45a7-4a9a-b976-8af875f51cfb): Client left. ||
+0d:0h:14m:58s |  bagelnagel          NAGELLLLLLLLL
+0d:0h:15m:3s  |  Rockwell !          UUUU
+0d:0h:15m:3s  |  {Phyx}              .move phyx right
+0d:0h:15m:4s  |  Toasty              yo kluss!!
+0d:0h:15m:11s |  {Phyx}              .move bagel left
+0d:0h:15m:14s |  bagelnagel          .move bagels
+0d:0h:15m:17s |  Toasty              yo fluff is this a scrim?
+0d:0h:15m:20s |  [fluffy]            no
+0d:0h:15m:20s |  {Phyx}              henk?
+0d:0h:15m:23s |  Rockwell !          this clan might end the same way PAC ended!
+0d:0h:15m:25s |  Toasty              then?
+0d:0h:15m:27s |  [fluffy]            idk
+0d:0h:15m:33s |  Magnetic Duck       um
+0d:0h:15m:33s |  {Phyx}              .move henk spec
+0d:0h:15m:33s |  OsOs{TBG}           guys plkayyy
+0d:0h:15m:36s |  Magnetic Duck       .move phyx spec
+0d:0h:15m:37s |  {Phyx}              .move toasty left
+0d:0h:15m:39s |  Toasty              u always suck xD!
+0d:0h:15m:42s |  {Phyx}              .move toasty spec
+0d:0h:15m:53s |  Toasty              srry
+0d:0h:15m:54s |  Rockwell !          ducky move me spec
+0d:0h:15m:55s |  youngHOmEskillet    this is
+0d:0h:15m:59s |  Magnetic Duck       .move rock spec
+0d:0h:16m:0s  |  Magnetic Duck       .stop
+0d:0h:16m:2s  |  Magnetic Duck       .teams
+0d:0h:16m:5s  |  youngHOmEskillet    what on 
+0d:0h:16m:6s  |  youngHOmEskillet    EART
+0d:0h:16m:7s  |  youngHOmEskillet    h
+0d:0h:16m:7s  |  Magnetic Duck       stop pressing f
+0d:0h:16m:9s  |  Magnetic Duck       jesus christ
+0d:0h:16m:10s |  Lelouch of Britanniahmph
+0d:0h:16m:12s |  bagelnagel          HAHAH
+0d:0h:16m:12s |  Magnetic Duck       .tourny
+0d:0h:16m:12s |  Capitalism!         so automatic
+0d:0h:16m:21s |  Magnetic Duck       .move rock left
+0d:0h:16m:22s |  Capitalism!         it says press f
+0d:0h:16m:25s |  bagelnagel          F
+0d:0h:16m:25s || ---- switched to map ball_ice ||
+0d:0h:16m:30s |  bagelnagel          Ff
+0d:0h:16m:30s |  {Phyx}              is this a scrim or something?
+0d:0h:16m:36s |  Magnetic Duck       join the game
+0d:0h:16m:36s |  Capitalism!         or something
+0d:0h:16m:39s |  OsOs{TBG}           lol
+0d:0h:16m:49s |  Toasty              wat is happening!
+0d:0h:16m:50s |  {Phyx}              not the best scrim haha
+0d:0h:16m:52s |  Magnetic Duck       blue team
+0d:0h:16m:52s |  jaminsky            n
+0d:0h:16m:54s |  Magnetic Duck       oh ffs
+0d:0h:16m:56s || ---> "<8) Xalri" (a9d97c25-09a5-432f-b221-7e3162296424) ||
+0d:0h:16m:58s |  Toasty              exactly
+0d:0h:16m:59s || <--- "{Phyx}" (02a33655-b2eb-42c2-bc88-fff24240f0d8): Client left. ||
+0d:0h:17m:1s  |  Magnetic Duck       blue team
+0d:0h:17m:4s  |  Magnetic Duck       if the game is fucking imba
+0d:0h:17m:5s  |  Magnetic Duck       spec
+0d:0h:17m:11s |  youngHOmEskillet    lol
+0d:0h:17m:11s |  Magnetic Duck       instead of camping their goal
+0d:0h:17m:21s || ---> "OneEvelPizza" (ac4fd234-b422-46d6-8b96-079318065507) ||
+0d:0h:17m:24s || ---> "{-T}" (10bfd8c3-8b5f-4db6-b585-ebfdc568daad) ||
+0d:0h:17m:26s |  Stam{TBG}           SPAWN
+0d:0h:17m:26s |  bagelnagel          ba
+0d:0h:17m:26s |  Rockwell !          OOO
+0d:0h:17m:32s |  Toasty              EVEL!
+0d:0h:17m:35s |  Capitalism!         in
+0d:0h:17m:37s |  OneEvelPizza        oh hey toasty
+0d:0h:17m:41s |  Rockwell !          okay i'm leaving.
+0d:0h:17m:43s || <--- "Rockwell !" (2ce1d6be-d8e7-4d27-8faf-b57fc8b4a1cb): Client left. ||
+0d:0h:17m:46s |  Magnetic Duck       what thefuck rock
+0d:0h:17m:48s || ---> "{Phyx}" (02a33655-b2eb-42c2-bc88-fff24240f0d8) ||
+0d:0h:17m:51s || <--- "Toasty" (d03bf074-aaba-436f-b521-51176c1bd4a8): Client left. ||
+0d:0h:17m:54s |  {Phyx}              magduck what is this
+0d:0h:18m:3s  |  Capitalism!         soebody
+0d:0h:18m:4s  |  Magnetic Duck       my attempts at getting idiots to play altitude
+0d:0h:18m:12s |  {Phyx}              you should re-do the teams
+0d:0h:18m:19s |  youngHOmEskillet    youre a dick mag
+0d:0h:18m:19s |  {Phyx}              .move phyx left
+0d:0h:18m:19s |  bagelnagel          i think it's going well
+0d:0h:18m:21s |  youngHOmEskillet    jesus
+0d:0h:18m:22s || ---> "<8)sneaky" (666d033d-8472-4cd1-bc26-34d339d499b1) ||
+0d:0h:18m:23s || ---- switched to map lobby_club ||
+0d:0h:18m:26s |  Capitalism!         gah
+0d:0h:18m:26s |  {Phyx}              .flree
+0d:0h:18m:27s |  {Phyx}              .clear
+0d:0h:18m:28s |  Capitalism!         aight
+0d:0h:18m:28s |  {Phyx}              .free
+0d:0h:18m:32s |  OneEvelPizza        tjena
+0d:0h:18m:33s || ---> "Toasty" (d03bf074-aaba-436f-b521-51176c1bd4a8) ||
+0d:0h:18m:35s |  <8)sneaky           tjena
+0d:0h:18m:39s |  {-T}                .clear
+0d:0h:18m:43s |  Magnetic Duck       excuse me homeskill?
+0d:0h:18m:46s |  Magnetic Duck       I'm a dick?
+0d:0h:18m:47s |  {-T}                let me in xD
+0d:0h:18m:50s || <--- "jaminsky" (53491499-2566-4a4c-9776-812dacb50c41): Client left. ||
+0d:0h:18m:51s || <--- "{-T}" (10bfd8c3-8b5f-4db6-b585-ebfdc568daad): Client left. ||
+0d:0h:18m:51s |  youngHOmEskillet    yea
+0d:0h:18m:52s |  Capitalism!         youre a duck
+0d:0h:18m:56s || ---> "jaminsky" (53491499-2566-4a4c-9776-812dacb50c41) ||
+0d:0h:18m:56s || ---> "{-T}" (10bfd8c3-8b5f-4db6-b585-ebfdc568daad) ||
+0d:0h:18m:57s |  Magnetic Duck       an 'idiot' is what I call a person who doesn't join the game even when his team has 1 less player
+0d:0h:19m:2s  || <--- "youngHOmEskillet" (9c00dade-131b-4122-ba8d-05f978827115): Dropped by server admin. ||
+0d:0h:19m:6s  || ---> "youngHOmEskillet" (9c00dade-131b-4122-ba8d-05f978827115) ||
+0d:0h:19m:8s  |  Magnetic Duck       lol
+0d:0h:19m:9s  |  Magnetic Duck       I didn't do that
+0d:0h:19m:13s |  youngHOmEskillet    rofl
+0d:0h:19m:13s |  Capitalism!         he sounded emotional
+0d:0h:19m:16s |  Capitalism!         rock that is
+0d:0h:19m:16s |  Magnetic Duck       anyway
+0d:0h:19m:21s || <--- "Kluss" (63575881-ac22-4496-bdf0-1d911d27bcf4): Client left. ||
+0d:0h:19m:22s |  {Phyx}              lets make some teams
+0d:0h:19m:25s || <--- "jaminsky" (53491499-2566-4a4c-9776-812dacb50c41): Client left. ||
+0d:0h:19m:31s |  Toasty              me?
+0d:0h:19m:32s |  Capitalism!         like his "im leaving" seemed permenant
+0d:0h:19m:33s |  Capitalism!         heh
+0d:0h:19m:35s |  {-T}                or ladder xD
+0d:0h:19m:37s |  Magnetic Duck       oh sigh
+0d:0h:19m:39s |  Toasty              ladder1
+0d:0h:19m:41s |  Magnetic Duck       it's not worth it
+0d:0h:19m:42s |  Magnetic Duck       go to ladder
+0d:0h:19m:42s |  {Phyx}              not everyone will move
+0d:0h:19m:44s |  <8) Xalri           hi
+0d:0h:19m:47s |  <8) Xalri           I just got here
+0d:0h:19m:48s |  Capitalism!         lets just play
+0d:0h:19m:52s |  <8) Xalri           it sounds like you're having fun ^^
+0d:0h:19m:52s |  {Phyx}              i do it
+0d:0h:19m:52s |  youngHOmEskillet    lets play
+0d:0h:19m:56s |  Toasty              ,,
+0d:0h:20m:0s  |  {Phyx}              .move xalri right
+0d:0h:20m:2s  |  OneEvelPizza        why niot play here
+0d:0h:20m:3s  |  {Phyx}              .move magnetic left
+0d:0h:20m:5s  |  {Phyx}              .tourny
+0d:0h:20m:9s  |  Capitalism!         game quality not the biggest deal
+0d:0h:20m:9s  |  Magnetic Duck       okay
+0d:0h:20m:11s |  Magnetic Duck       sure
+0d:0h:20m:13s |  Toasty              wtf
+0d:0h:20m:14s |  Magnetic Duck       let's go, captain teams
+0d:0h:20m:18s |  {Phyx}              go
+0d:0h:20m:19s |  Magnetic Duck       .move fluffy left
+0d:0h:20m:20s |  Toasty              can i JOIN?
+0d:0h:20m:20s |  <8) Xalri           er
+0d:0h:20m:23s |  <8) Xalri           phyx
+0d:0h:20m:26s |  {Phyx}              is this ball or tbd
+0d:0h:20m:27s |  Magnetic Duck       toasty these are captain teams
+0d:0h:20m:28s |  {Phyx}              .move phyx right
+0d:0h:20m:28s |  Capitalism!         pick pick pick pick
+0d:0h:20m:33s |  <8) Xalri           tbd
+0d:0h:20m:34s |  Capitalism!         lets do ball
+0d:0h:20m:35s |  {-T}                ball 
+0d:0h:20m:36s |  Magnetic Duck       fluffy are you there
+0d:0h:20m:37s |  youngHOmEskillet    ball
+0d:0h:20m:37s |  Capitalism!         for 6 v 6
+0d:0h:20m:41s |  <8) Xalri           who?
+0d:0h:20m:42s |  Magnetic Duck       um no
+0d:0h:20m:43s |  {Phyx}              1 ball then 1 tbd
+0d:0h:20m:44s |  <8) Xalri           I'm bad at capts :p
+0d:0h:20m:44s |  {Phyx}              ?
+0d:0h:20m:46s |  Magnetic Duck       you have bladder on in just a minute
+0d:0h:20m:55s |  Capitalism!         good call
+0d:0h:20m:56s |  {Phyx}              Eh
+0d:0h:20m:57s |  youngHOmEskillet    okay king ducky
+0d:0h:21m:2s  || <--- "bagelnagel" (bc7afd0b-f127-4eb0-a726-dac9ba7207cf): Client left. ||
+0d:0h:21m:2s  |  Toasty              WHO WANTS LADDER HERE?
+0d:0h:21m:4s  |  Magnetic Duck       k
+0d:0h:21m:11s |  Capitalism!         fladder
+0d:0h:21m:14s |  Magnetic Duck       .move evel left
+0d:0h:21m:17s |  Magnetic Duck       fluffy are you there
+0d:0h:21m:23s |  OneEvelPizza        I HAVE ABSOLUTELY NO IDEA WHY AM I USING CAPS
+0d:0h:21m:25s |  {Phyx}              idk how good people are
+0d:0h:21m:26s |  Capitalism!         ive got 10 min
+0d:0h:21m:27s |  <8) Xalri           err
+0d:0h:21m:29s |  <8) Xalri           toast
+0d:0h:21m:29s |  {Phyx}              in this server
+0d:0h:21m:33s |  Magnetic Duck       .move toasty right
+0d:0h:21m:33s |  Toasty              yup?
+0d:0h:21m:34s |  youngHOmEskillet    :(
+0d:0h:21m:36s |  Capitalism!         10+-
+0d:0h:21m:40s |  Magnetic Duck       .move homeskill left
+0d:0h:21m:42s |  <8) Xalri           hmm, me neither, I'll just go for who I do know
+0d:0h:21m:42s |  Capitalism!         but i want one round mas
+0d:0h:21m:45s |  {Phyx}              who players whale?
+0d:0h:21m:47s |  youngHOmEskillet    i do
+0d:0h:21m:49s |  Capitalism!         and im super on point so pick me
+0d:0h:21m:50s || ---> "<8) Kennedy" (f0815906-5a2b-4eba-bc6e-ea7092f37cfb) ||
+0d:0h:21m:51s |  {-T}                same
+0d:0h:21m:53s |  <8) Xalri           T
+0d:0h:21m:53s |  Toasty              i loop!
+0d:0h:21m:54s |  {Phyx}              kennedy
+0d:0h:21m:57s |  OneEvelPizza        henk is good bomber
+0d:0h:22m:0s  |  {Phyx}              .move kennedy right
+0d:0h:22m:1s  |  Capitalism!         i bomb and loop
+0d:0h:22m:4s  |  Capitalism!         bomb right now
+0d:0h:22m:9s  |  Magnetic Duck       fluffy are you there?
+0d:0h:22m:9s  |  youngHOmEskillet    hello team
+0d:0h:22m:12s |  youngHOmEskillet    what plane am i playing
+0d:0h:22m:15s |  OneEvelPizza        henk is an oldie btw 
+0d:0h:22m:20s |  Toasty              i dont think so
+0d:0h:22m:21s |  Magnetic Duck       ugh
+0d:0h:22m:26s |  <8) Xalri           T is a good whale 
+0d:0h:22m:26s |  Magnetic Duck       umm
+0d:0h:22m:31s |  {Phyx}              didnt even see him
+0d:0h:22m:31s || <--- "HENK{TBG}" (21d84c21-8507-496a-ad09-5cb9eae0a998): Client left. ||
+0d:0h:22m:36s |  {Phyx}              magduck will pick him now
+0d:0h:22m:38s |  {Phyx}              he can see our team chat
+0d:0h:22m:39s |  {Phyx}              :p
+0d:0h:22m:40s |  <8) Xalri           D:
+0d:0h:22m:41s |  Magnetic Duck       calling people
+0d:0h:22m:42s |  <8) Xalri           oh hahaa
+0d:0h:22m:43s |  Magnetic Duck       let's see
+0d:0h:22m:45s |  Capitalism!         lemme drop a d on your enemies
+0d:0h:22m:46s |  <8) Xalri           hi mag o/ :D
+0d:0h:22m:49s |  Magnetic Duck       I guess we get two picks because fluffy's afk
+0d:0h:22m:49s |  Capitalism!         pick cap
+0d:0h:22m:52s |  {Phyx}              yep
+0d:0h:22m:52s |  Magnetic Duck       .move fluffy spec
+0d:0h:23m:0s  |  Magnetic Duck       -T are you into tbd
+0d:0h:23m:5s  |  {-T}                kk
+0d:0h:23m:6s  |  <8) Xalri           T.T
+0d:0h:23m:9s  |  <8) Xalri           oh well
+0d:0h:23m:18s |  Magnetic Duck       gah
+0d:0h:23m:20s || <--- "OsOs{TBG}" (99d32493-166a-4519-a630-40411f15e060): Client left. ||
+0d:0h:23m:24s |  Magnetic Duck       .move sneak left
+0d:0h:23m:24s |  {Phyx}              i would say sneaky but we got kennedy as a bip
+0d:0h:23m:26s |  <8) Xalri           also I've finally set up my mic, so I'll talk on mumble
+0d:0h:23m:28s |  <8) Xalri           mmh
+0d:0h:23m:30s |  {Phyx}              Awesome
+0d:0h:23m:35s |  Magnetic Duck       oh lol
+0d:0h:23m:35s |  Toasty              i always loved this---> T-T
+0d:0h:23m:46s |  Magnetic Duck       and
+0d:0h:23m:48s |  {Phyx}              hurry up and pick
+0d:0h:23m:48s || ---> "Tekn0z" (b48be965-2e69-4a51-9222-4acd8a382424) ||
+0d:0h:23m:48s |  {Phyx}              pls
+0d:0h:23m:49s |  Magnetic Duck       .move -T left
+0d:0h:23m:50s |  Magnetic Duck       sorry
+0d:0h:23m:50s || <--- "{-T}" (10bfd8c3-8b5f-4db6-b585-ebfdc568daad): Client left. ||
+0d:0h:23m:52s |  {Phyx}              nw
+0d:0h:23m:54s || <--- "Stam{TBG}" (f4d0b170-2877-4a92-90eb-eb950a57c636): Connection to game server timed out ||
+0d:0h:23m:56s |  Magnetic Duck       .move tek left
+0d:0h:23m:57s |  Magnetic Duck       rofl
+0d:0h:23m:58s |  Magnetic Duck       k
+0d:0h:24m:0s  |  Magnetic Duck       last one
+0d:0h:24m:1s  |  <8) Xalri           capitalism
+0d:0h:24m:2s  || ---> "{-T}" (10bfd8c3-8b5f-4db6-b585-ebfdc568daad) ||
+0d:0h:24m:3s  |  {Phyx}              u so planned that
+0d:0h:24m:4s  |  Magnetic Duck       .move cap right
+0d:0h:24m:6s  |  Capitalism!         woot
+0d:0h:24m:7s  |  Magnetic Duck       oh dorn
+0d:0h:24m:13s |  Toasty              need one more i guess
+0d:0h:24m:15s |  {Phyx}              we pick ma
+0d:0h:24m:16s |  Magnetic Duck       who do we spec, tek sneak or -T
+0d:0h:24m:16s |  {Phyx}              map
+0d:0h:24m:22s |  {Phyx}              what map
+0d:0h:24m:23s |  {Phyx}              ?
+0d:0h:24m:24s |  youngHOmEskillet    spec me
+0d:0h:24m:26s |  youngHOmEskillet    its fien
+0d:0h:24m:27s |  <8) Kennedy         scrapyard
+0d:0h:24m:28s |  OneEvelPizza        u picked sneak first
+0d:0h:24m:30s |  {Phyx}              i think sneaky is afc
+0d:0h:24m:32s |  <8) Xalri           how's your whale cap?
+0d:0h:24m:36s |  Magnetic Duck       okay
+0d:0h:24m:37s |  {Phyx}              afk*
+0d:0h:24m:37s |  Magnetic Duck       .move sneak spec
+0d:0h:24m:38s |  Magnetic Duck       good
+0d:0h:24m:40s |  <8)sneaky           not gonna play
+0d:0h:24m:42s |  {Phyx}              oh
+0d:0h:24m:43s |  OneEvelPizza        oh
+0d:0h:24m:44s |  Toasty              k
+0d:0h:24m:45s |  Capitalism!         um, decent
+0d:0h:24m:46s |  OneEvelPizza        ska du kaka?
+0d:0h:24m:48s |  Capitalism!         not my strong suit
+0d:0h:24m:50s |  {Phyx}              what map
+0d:0h:24m:50s |  Magnetic Duck       what map
+0d:0h:24m:50s |  {Phyx}              ?
+0d:0h:24m:52s |  Magnetic Duck       let
+0d:0h:24m:54s |  <8) Kennedy         scrapyard
+0d:0h:24m:55s |  Toasty              hills xD
+0d:0h:24m:59s || ---- switched to map tbd_scrapyard ||
+0d:0h:25m:2s  || <--- "Lelouch of Britannia" (4c7b3fab-92f1-47b2-8644-c8be49160d07): Client left. ||
+0d:0h:25m:2s  |  Tekn0z              wait what 
+0d:0h:25m:3s  |  <8)sneaky           nix, men orkar inte med douchebags just nu
+0d:0h:25m:3s  |  Tekn0z              TBD?
+0d:0h:25m:5s  |  Tekn0z              lol
+0d:0h:25m:6s  |  youngHOmEskillet    what plane
+0d:0h:25m:8s  |  <8) Xalri           huh
+0d:0h:25m:8s  |  <8) Xalri           ok
+0d:0h:25m:9s  |  <8) Xalri           gl hf
+0d:0h:25m:15s |  Toasty              RANDA?
+0d:0h:25m:17s |  {Phyx}              1 tbd then 1 ball
+0d:0h:25m:20s |  {Phyx}              i thought it was
+0d:0h:25m:30s |  OneEvelPizza        aa inte ja heller faktistkt
+0d:0h:25m:41s |  <8) Kennedy         im getting intermittent lag spikes
+0d:0h:25m:45s |  <8) Kennedy         computer restart didnt help
+0d:0h:25m:46s |  <8) Kennedy         o.o
+0d:0h:25m:47s |  <8) Kennedy         any ideas
+0d:0h:25m:48s |  {Phyx}              go toast
+0d:0h:25m:54s |  Toasty              wtggg
+0d:0h:25m:54s |  Capitalism!         lol
+0d:0h:25m:59s |  Capitalism!         placed
+0d:0h:26m:0s  |  Toasty              lolol
+0d:0h:26m:5s  |  <8) Kennedy         not sure i can play like this
+0d:0h:26m:20s |  OneEvelPizza        its only 160
+0d:0h:26m:34s |  <8) Kennedy         its not ping
+0d:0h:26m:39s |  {Phyx}              get ret
+0d:0h:26m:39s |  <8) Kennedy         my screen just freezes for 2-3 seconds
+0d:0h:26m:39s |  Capitalism!         blast
+0d:0h:26m:40s |  {Phyx}              almost dead
+0d:0h:26m:51s |  Toasty              same her
+0d:0h:27m:21s |  {Phyx}              i go low
+0d:0h:27m:38s |  Toasty              lol
+0d:0h:27m:43s |  {Phyx}              ret
+0d:0h:27m:51s |  Capitalism!         i know i know... uff amnit
+0d:0h:28m:21s |  {Phyx}              lol
+0d:0h:28m:41s |  {Phyx}              toast go low
+0d:0h:28m:55s |  Toasty              gah
+0d:0h:28m:57s |  {Phyx}              eh mb
+0d:0h:28m:58s |  {Phyx}              ;
+0d:0h:29m:2s  |  Capitalism!         i can loo[
+0d:0h:29m:3s  |  Magnetic Duck       1 of each plane
+0d:0h:29m:4s  |  Magnetic Duck       heh
+0d:0h:29m:13s |  <8) Xalri           \o/
+0d:0h:29m:34s |  Magnetic Duck       neat.
+0d:0h:30m:8s  |  youngHOmEskillet    oos
+0d:0h:30m:41s || ---> "Evaristo" (8782bdb5-3f5c-48f9-b863-d3227a5c0aa7) ||
+0d:0h:30m:56s |  Capitalism!         asdlkjfhaskjdhf
+0d:0h:30m:57s |  {Phyx}              ..
+0d:0h:31m:2s  |  Evaristo            heya
+0d:0h:31m:6s  |  Toasty              can someone randa?
+0d:0h:31m:11s |  <8)sneaky           hi
+0d:0h:31m:12s |  Toasty              to carr bomb
+0d:0h:31m:17s |  Evaristo            omni here btw :P
+0d:0h:31m:21s |  {Phyx}              i only randa to kill not carry bomb
+0d:0h:31m:24s |  Capitalism!          will loop to carrt
+0d:0h:31m:26s |  {Phyx}              no
+0d:0h:31m:26s |  <8)sneaky           wondered who you where >.<
+0d:0h:31m:29s |  Capitalism!         k
+0d:0h:31m:30s |  Toasty              mope
+0d:0h:31m:35s |  Evaristo            Duh, I'm me
+0d:0h:31m:38s |  <8)sneaky           aah
+0d:0h:31m:40s |  <8) Kennedy         i will run.
+0d:0h:31m:41s |  {Phyx}              i think the games lost eitehr way
+0d:0h:31m:44s |  <8)sneaky           makes sense
+0d:0h:31m:45s |  {Phyx}              lewish u loopy
+0d:0h:31m:45s |  Toasty              o escort
+0d:0h:31m:47s |  <8) Xalri           ok
+0d:0h:31m:48s |  Evaristo            :)
+0d:0h:31m:55s || ---> "Smile.exe" (25c28e39-8c93-4adb-91c0-783cb9d75959) ||
+0d:0h:31m:58s |  <8)sneaky           how was the race ?
+0d:0h:32m:13s |  Evaristo            not bad
+0d:0h:32m:14s |  youngHOmEskillet    gg
+0d:0h:32m:15s |  Capitalism!         sigh
+0d:0h:32m:16s |  Evaristo            very difficul
+0d:0h:32m:18s |  Capitalism!         rough
+0d:0h:32m:23s |  Toasty              they pushed so hard
+0d:0h:32m:24s |  <8)sneaky           ok
+0d:0h:32m:26s |  {Phyx}              now we can ball
+0d:0h:32m:27s |  Evaristo            my friend did it in 1h 14 min
+0d:0h:32m:29s |  Toasty              yup!
+0d:0h:32m:31s || ---- switched to map lobby_club ||
+0d:0h:32m:36s |  {Phyx}              .clear
+0d:0h:32m:36s |  Evaristo            17 km wtf
+0d:0h:32m:36s |  Magnetic Duck       .swapteams
+0d:0h:32m:36s |  {Phyx}              .free
+0d:0h:32m:39s |  Magnetic Duck       uhhh
+0d:0h:32m:40s |  {-T}                same teams ?
+0d:0h:32m:41s |  <8) Kennedy         new teams?
+0d:0h:32m:44s |  Magnetic Duck       riight
+0d:0h:32m:47s |  OneEvelPizza        we pushed hard? 
+0d:0h:32m:47s |  {Phyx}              .move teknoz right
+0d:0h:32m:48s |  <8)sneaky           and you did it in?
+0d:0h:32m:50s || <--- "Evaristo" (8782bdb5-3f5c-48f9-b863-d3227a5c0aa7): Client left. ||
+0d:0h:32m:50s |  <8) Kennedy         lemme capt
+0d:0h:32m:50s |  Magnetic Duck       you justlost that option
+0d:0h:32m:54s |  {Phyx}              .move kennedy left
+0d:0h:32m:56s |  {Phyx}              .tourny
+0d:0h:32m:56s || ---> "Evaristo" (8782bdb5-3f5c-48f9-b863-d3227a5c0aa7) ||
+0d:0h:32m:56s || <--- "Smile.exe" (25c28e39-8c93-4adb-91c0-783cb9d75959): Client left. ||
+0d:0h:33m:4s  |  Evaristo            did it in 2.01
+0d:0h:33m:6s  |  {Phyx}              .move ten0z right
+0d:0h:33m:9s  |  <8) Xalri           the pings on red o.o
+0d:0h:33m:10s |  <8)sneaky           oh
+0d:0h:33m:10s |  <8) Xalri           all red
+0d:0h:33m:11s |  {Phyx}              .move kennedy left
+0d:0h:33m:12s |  {Phyx}              .tourny
+0d:0h:33m:12s |  Magnetic Duck       .move tek right
+0d:0h:33m:19s |  Magnetic Duck       .move tek right
+0d:0h:33m:20s |  Evaristo            it had 1,200 m up
+0d:0h:33m:20s |  Magnetic Duck       .tourny
+0d:0h:33m:21s |  Capitalism!         i gotta run
+0d:0h:33m:22s |  {Phyx}              oh
+0d:0h:33m:23s |  {Phyx}              ;
+0d:0h:33m:24s |  <8)sneaky           less cookies more training
+0d:0h:33m:28s |  youngHOmEskillet    ye
+0d:0h:33m:29s |  Capitalism!         cyaz
+0d:0h:33m:29s |  Evaristo            lol...
+0d:0h:33m:30s |  <8)sneaky           !
+0d:0h:33m:30s |  youngHOmEskillet    GEt on it
+0d:0h:33m:34s |  youngHOmEskillet    GOD
+0d:0h:33m:35s || <--- "Capitalism!" (13dcd5b1-6ec0-4494-87ad-7b70c116abc2): Client left. ||
+0d:0h:33m:37s |  OneEvelPizza        who are u evaristo?
+0d:0h:33m:38s |  <8) Kennedy         who first
+0d:0h:33m:40s |  Evaristo            no but he's rly good
+0d:0h:33m:46s |  {Phyx}              either
+0d:0h:33m:49s || <--- "{-T}" (10bfd8c3-8b5f-4db6-b585-ebfdc568daad): Client left. ||
+0d:0h:33m:51s |  {Phyx}              whoever says a name first
+0d:0h:33m:55s |  <8) Kennedy         lewis
+0d:0h:33m:57s |  Evaristo            like he's champion of spain in
+0d:0h:33m:58s |  <8) Kennedy         .move xalri right
+0d:0h:33m:58s |  <8)sneaky           was it 1.2 m high?
+0d:0h:34m:0s  |  Evaristo            running
+0d:0h:34m:1s  |  Magnetic Duck       .move xal left
+0d:0h:34m:11s |  OneEvelPizza        omni?
+0d:0h:34m:12s |  Evaristo            no i mean like 1,200 metres vertical height up
+0d:0h:34m:12s |  <8) Kennedy         tek
+0d:0h:34m:13s || ---> "{-T}" (10bfd8c3-8b5f-4db6-b585-ebfdc568daad) ||
+0d:0h:34m:14s |  <8) Kennedy         pick someone
+0d:0h:34m:15s |  <8)sneaky           >.<
+0d:0h:34m:17s |  Evaristo            yea hai 
+0d:0h:34m:19s |  OneEvelPizza        hi
+0d:0h:34m:21s |  Toasty              XALRI RIGHT
+0d:0h:34m:23s |  Tekn0z              phyx
+0d:0h:34m:23s |  Evaristo            so 1km straight up
+0d:0h:34m:24s |  Evaristo            :P
+0d:0h:34m:27s |  {Phyx}              .move phyx right
+0d:0h:34m:27s |  Magnetic Duck       .move phyx right
+0d:0h:34m:29s |  youngHOmEskillet    good pick
+0d:0h:34m:32s |  <8) Kennedy         evel
+0d:0h:34m:35s |  OneEvelPizza        uphill racing then
+0d:0h:34m:36s |  Magnetic Duck       .move evel left
+0d:0h:34m:39s |  Tekn0z              i dunno many players here
+0d:0h:34m:42s |  youngHOmEskillet    <--- i can whale if you want
+0d:0h:34m:43s |  {Phyx}              magduck
+0d:0h:34m:45s |  Evaristo            mountain race yea
+0d:0h:34m:47s |  <8)sneaky           tough terrain
+0d:0h:34m:47s |  {Phyx}              For the whale
+0d:0h:34m:49s |  Evaristo            very
+0d:0h:34m:51s |  Magnetic Duck       I play heavy planes
+0d:0h:34m:52s |  Evaristo            it was tough
+0d:0h:34m:54s |  Tekn0z              young then
+0d:0h:34m:54s |  youngHOmEskillet    do you believe in me
+0d:0h:34m:55s |  Magnetic Duck       primarily
+0d:0h:34m:56s |  youngHOmEskillet    YES
+0d:0h:34m:56s |  youngHOmEskillet    YES
+0d:0h:34m:57s |  Magnetic Duck       .move young right
+0d:0h:35m:0s  |  youngHOmEskillet    GOOD CHOICE
+0d:0h:35m:1s  |  <8) Kennedy         Fluffy you playing?
+0d:0h:35m:4s  |  Magnetic Duck       nope
+0d:0h:35m:7s  |  [fluffy]            no sorry
+0d:0h:35m:7s  |  OneEvelPizza        u shgould know who sneak is teknoz xD
+0d:0h:35m:7s  |  youngHOmEskillet    remote or thermo
+0d:0h:35m:8s  |  <8) Kennedy         who is evar
+0d:0h:35m:10s |  Toasty              ME?
+0d:0h:35m:12s |  OneEvelPizza        omni
+0d:0h:35m:15s |  Evaristo            It's Omni hear
+0d:0h:35m:17s |  {Phyx}              thermo for ball
+0d:0h:35m:22s |  Tekn0z              magnetic 
+0d:0h:35m:25s |  youngHOmEskillet    idk bro
+0d:0h:35m:26s |  Magnetic Duck       .move duck right
+0d:0h:35m:29s |  youngHOmEskillet    remote is pretty good
+0d:0h:35m:29s |  {Phyx}              Depeend what map
+0d:0h:35m:30s |  Toasty              omni vanitas rocks
+0d:0h:35m:30s |  <8) Kennedy         uh
+0d:0h:35m:31s |  <8) Kennedy         it's my pick
+0d:0h:35m:32s |  <8) Kennedy         homie
+0d:0h:35m:37s |  {Phyx}              and how much better u are at either of them
+0d:0h:35m:39s |  Tekn0z              oops
+0d:0h:35m:39s |  youngHOmEskillet    you jsut let me know
+0d:0h:35m:47s |  Toasty              me!
+0d:0h:35m:48s |  youngHOmEskillet    im equally good
+0d:0h:35m:53s |  {Phyx}              i would thermo then
+0d:0h:35m:59s |  Tekn0z              i dont really care, lets just play lol
+0d:0h:36m:5s  |  {Phyx}              kenedy pick
+0d:0h:36m:9s  |  <8) Kennedy         T
+0d:0h:36m:13s |  {Phyx}              .move T left
+0d:0h:36m:19s |  {-T}                yay ty
+0d:0h:36m:21s |  youngHOmEskillet    okay
+0d:0h:36m:34s |  Tekn0z              my pic?
+0d:0h:36m:36s |  {Phyx}              yh
+0d:0h:36m:43s |  <8)sneaky           does evaristo means something?
+0d:0h:36m:45s |  Tekn0z              eenie meenie
+0d:0h:36m:46s |  OneEvelPizza        what happend to AK?
+0d:0h:36m:50s |  {-T}                died
+0d:0h:36m:50s |  Tekn0z              toastie
+0d:0h:36m:52s |  Evaristo            its a name
+0d:0h:36m:54s |  OneEvelPizza        haha 
+0d:0h:36m:54s || ---> "v H@ns" (24f365c4-ded9-4842-a4df-53eae7b5bacd) ||
+0d:0h:36m:56s |  OneEvelPizza        how?
+0d:0h:36m:56s |  {Phyx}              .move toasty right
+0d:0h:36m:57s |  <8)sneaky           oh
+0d:0h:36m:57s |  Toasty              yup?
+0d:0h:36m:58s |  Evaristo            ;p
+0d:0h:37m:0s  |  v H@ns              hey
+0d:0h:37m:2s  |  Evaristo            not my name btw
+0d:0h:37m:5s  |  {-T}                inactiveyy
+0d:0h:37m:5s  |  <8)sneaky           kk
+0d:0h:37m:6s  |  <8) Kennedy         hans
+0d:0h:37m:7s  |  Evaristo            so dont try to stalk me
+0d:0h:37m:10s |  {-T}                ....*
+0d:0h:37m:11s |  {Phyx}              .move h@ans left
+0d:0h:37m:12s |  youngHOmEskillet    am i whaleing alone
+0d:0h:37m:14s |  <8)sneaky           haha
+0d:0h:37m:16s |  Magnetic Duck       .move @ left
+0d:0h:37m:18s |  {Phyx}              lol
+0d:0h:37m:19s |  Evaristo            :D
+0d:0h:37m:20s |  Magnetic Duck       okay
+0d:0h:37m:24s |  Tekn0z              dont think sneaky is playing, right?
+0d:0h:37m:25s |  Magnetic Duck       who plays whale
+0d:0h:37m:27s |  Magnetic Duck       I can play whale
+0d:0h:37m:32s |  youngHOmEskillet    youre okay
+0d:0h:37m:33s |  {Phyx}              we doind 6v6
+0d:0h:37m:36s |  {Phyx}              i thought
+0d:0h:37m:37s |  Magnetic Duck       anybody feel like they're super good at whale
+0d:0h:37m:38s |  Magnetic Duck       uh
+0d:0h:37m:38s |  youngHOmEskillet    we are
+0d:0h:37m:39s |  Magnetic Duck       oh boy
+0d:0h:37m:41s |  youngHOmEskillet    i mean
+0d:0h:37m:44s |  youngHOmEskillet    "super good"
+0d:0h:37m:45s |  Tekn0z              k sneaky if hes there, thought he asnt
+0d:0h:37m:46s |  youngHOmEskillet    whos super good
+0d:0h:37m:46s || <--- "Evaristo" (8782bdb5-3f5c-48f9-b863-d3227a5c0aa7): Client left. ||
+0d:0h:37m:47s |  Tekn0z              was afk
+0d:0h:37m:48s |  youngHOmEskillet    nobody
+0d:0h:37m:51s |  {Phyx}              5v5
+0d:0h:37m:53s |  {Phyx}              ball it is then
+0d:0h:37m:55s |  Tekn0z              k lets go
+0d:0h:37m:57s |  {Phyx}              what map u guys want
+0d:0h:38m:1s  |  <8) Kennedy         cross
+0d:0h:38m:3s  |  Tekn0z              pp
+0d:0h:38m:5s  |  Toasty              phyx u whale?
+0d:0h:38m:8s  || ---- switched to map ball_cross ||
+0d:0h:38m:12s |  {Phyx}              no
+0d:0h:38m:17s |  Toasty              whale??
+0d:0h:38m:17s |  Magnetic Duck       lol comp
+0d:0h:38m:17s |  <8) Xalri           want me to whale or loop?
+0d:0h:38m:18s |  <8) Xalri           gl hf
+0d:0h:38m:22s |  <8)sneaky           just speccing til scrim
+0d:0h:38m:26s |  {Phyx}              tek i htought u randa
+0d:0h:38m:41s || ---> "Evaristo" (8782bdb5-3f5c-48f9-b863-d3227a5c0aa7) ||
+0d:0h:38m:49s |  Tekn0z              i coulg i guess
+0d:0h:38m:52s |  Tekn0z              this is loopy spam map
+0d:0h:38m:54s |  Evaristo            5v5 ball?
+0d:0h:38m:56s |  Evaristo            lol
+0d:0h:38m:59s |  {Phyx}              k
+0d:0h:39m:7s  |  Magnetic Duck       how about 1 randa
+0d:0h:39m:15s |  [fluffy]            back
+0d:0h:39m:16s |  Toasty              ya
+0d:0h:39m:19s |  [fluffy]            5v5 ball?
+0d:0h:39m:23s |  {Phyx}              yeah
+0d:0h:39m:23s |  Magnetic Duck       I can't
+0d:0h:39m:24s |  [fluffy]            what a bunch of scrubs
+0d:0h:39m:27s |  <8) Xalri           \o/
+0d:0h:39m:29s |  <8) Kennedy         evel whale
+0d:0h:39m:31s |  <8) Kennedy         we dont need 23 randa
+0d:0h:39m:33s |  OneEvelPizza        not 
+0d:0h:39m:37s |  OneEvelPizza        a whale map
+0d:0h:39m:40s |  {Phyx}              np
+0d:0h:39m:41s |  youngHOmEskillet    i will randa
+0d:0h:39m:42s |  <8) Kennedy         then loopy
+0d:0h:39m:43s |  <8)sneaky           time moves past way to fast
+0d:0h:39m:46s |  OneEvelPizza        no ty
+0d:0h:39m:54s |  <8)sneaky           soon 2016
+0d:0h:39m:56s |  [fluffy]            thats deep man
+0d:0h:39m:56s |  {Phyx}              works haha
+0d:0h:40m:15s |  [fluffy]            i cant wait till christmas
+0d:0h:40m:36s || ---> "crack ;)" (ee4ef08f-4a53-431e-a23b-1626d9a0bee2) ||
+0d:0h:40m:42s |  {Phyx}              .move crack left
+0d:0h:40m:44s |  {Phyx}              .move evar right
+0d:0h:40m:48s |  {Phyx}              ;
+0d:0h:40m:48s |  Magnetic Duck       what
+0d:0h:40m:54s |  Magnetic Duck       k
+0d:0h:40m:54s |  {Phyx}              i thought evar wasnt afk
+0d:0h:40m:59s |  <8) Xalri           fluffs?
+0d:0h:41m:2s  |  [fluffy]            ?
+0d:0h:41m:3s  |  {Phyx}              nvm
+0d:0h:41m:5s  |  [fluffy]            uwotm8
+0d:0h:41m:6s  |  Evaristo            laggin tho
+0d:0h:41m:8s  |  <8) Xalri           nvm
+0d:0h:41m:22s |  crack ;)            g
+0d:0h:41m:22s |  {Phyx}              shit
+0d:0h:41m:22s |  Magnetic Duck       lol
+0d:0h:41m:23s |  <8) Kennedy         n
+0d:0h:41m:23s |  Magnetic Duck       what
+0d:0h:41m:24s |  v H@ns              g
+0d:0h:41m:25s |  {Phyx}              i should of chose crack
+0d:0h:41m:26s |  {Phyx}              ;
+0d:0h:41m:38s |  [fluffy]            u taking that Evaristo?
+0d:0h:41m:50s || ---> "v elusiveOne {T}" (d2ade87e-09a6-4ff9-af7b-9ae9f58fd570) ||
+0d:0h:41m:56s |  Evaristo            swap me for elu then
+0d:0h:42m:8s  |  v elusiveOne {T}    hello
+0d:0h:42m:9s  |  [fluffy]            what about me? i feel so left out
+0d:0h:42m:11s |  v H@ns              hey
+0d:0h:42m:12s |  <8) Xalri           hi o/
+0d:0h:42m:16s |  {Phyx}              7v7
+0d:0h:42m:17s |  {Phyx}              no
+0d:0h:42m:19s |  [fluffy]            hi elusive one
+0d:0h:42m:37s |  v elusiveOne {T}    n
+0d:0h:42m:37s |  youngHOmEskillet    rip crack
+0d:0h:42m:43s |  {Phyx}              u guys
+0d:0h:42m:45s |  {Phyx}              should use 1 randa
+0d:0h:42m:55s |  crack ;)            not 1 with flexi
+0d:0h:43m:9s  |  Toasty              ebel
+0d:0h:43m:19s |  Magnetic Duck       sorry
+0d:0h:43m:53s |  <8) Xalri           I hope I relearn alti before scrim
+0d:0h:43m:55s |  <8) Xalri           this is bad
+0d:0h:43m:56s |  youngHOmEskillet    o lord
+0d:0h:43m:56s |  Evaristo            lol tek
+0d:0h:43m:57s |  <8) Kennedy         me too
+0d:0h:44m:8s  |  <8) Kennedy         i havent really played since SL
+0d:0h:44m:14s |  {Phyx}              gg
+0d:0h:44m:15s |  <8) Xalri           gg
+0d:0h:44m:16s |  youngHOmEskillet    gg?
+0d:0h:44m:18s |  Toasty              gg
+0d:0h:44m:19s |  <8) Xalri           "gg"
+0d:0h:44m:20s |  Evaristo            was it?
+0d:0h:44m:21s |  Toasty              ladder?
+0d:0h:44m:22s |  Magnetic Duck       mhm
+0d:0h:44m:23s |  v H@ns              no
+0d:0h:44m:25s |  Magnetic Duck       that was interesting
+0d:0h:44m:27s |  {Phyx}              whats the point of ladder
+0d:0h:44m:27s |  <8) Kennedy         geegee
+0d:0h:44m:30s || ---- switched to map lobby_club ||
+0d:0h:44m:35s |  Toasty              lets go ladder?
+0d:0h:44m:35s |  {Phyx}              .swap phyx @
+0d:0h:44m:38s || <--- "Magnetic Duck" (5640761e-f165-4f40-b3d6-3e3167dd767d): Client left. ||
+0d:0h:44m:43s |  v elusiveOne {T}    ladder? good play
+0d:0h:44m:45s |  {Phyx}              .move elusive right
+0d:0h:44m:47s |  Toasty              or just start dont sawp teams
+0d:0h:44m:52s |  {Phyx}              there we go
+0d:0h:45m:0s  || ---- switched to map ball_cave ||
+0d:0h:45m:5s  |  Toasty              good!
+0d:0h:45m:6s  |  <8) Xalri           lol fluffs
+0d:0h:45m:8s  |  <8) Xalri           gl hf
+0d:0h:45m:10s |  [fluffy]            what a bunch of bastards
+0d:0h:45m:21s |  <8) Xalri           haha
+0d:0h:45m:24s |  {Phyx}              thought u said u werent playing
+0d:0h:45m:30s |  <8) Xalri           were it anyone but you I'd feel bad for you :p
+0d:0h:45m:40s |  [fluffy]            lol
+0d:0h:45m:53s |  [fluffy]            they just 2 scared ill unbalance the teams
+0d:0h:45m:55s |  [fluffy]            dramatically
+0d:0h:45m:56s |  <8) Xalri           haha
+0d:0h:45m:56s |  crack ;)            gp
+0d:0h:45m:57s |  [fluffy]            and win everythings
+0d:0h:45m:58s |  Evaristo            eh k
+0d:0h:45m:59s |  youngHOmEskillet    why are phyx and crack
+0d:0h:46m:0s  |  youngHOmEskillet    on the same team
+0d:0h:46m:6s  |  crack ;)            cuz i suck at randa
+0d:0h:46m:14s |  {Phyx}              its true
+0d:0h:46m:15s |  [fluffy]            !
+0d:0h:46m:15s |  {Phyx}              see
+0d:0h:46m:18s |  <8) Xalri           erm
+0d:0h:46m:18s |  youngHOmEskillet    yea and i suck at whale
+0d:0h:46m:19s |  {Phyx}              ;p
+0d:0h:46m:19s |  Toasty              lol
+0d:0h:46m:19s |  Evaristo            n hans 
+0d:0h:46m:20s |  <8) Xalri           lag
+0d:0h:46m:20s |  Evaristo            <3
+0d:0h:46m:24s |  v H@ns              :D
+0d:0h:46m:57s |  {Phyx}              Evel
+0d:0h:47m:1s  |  {Phyx}              dont double randa
+0d:0h:47m:1s  |  {Phyx}              ;p
+0d:0h:47m:2s  |  <8) Xalri           did I just crash o.o
+0d:0h:47m:13s |  v elusiveOne {T}    just a little bit
+0d:0h:47m:15s |  OneEvelPizza        yea crack dont double randa
+0d:0h:47m:26s |  OneEvelPizza        tsk tsk
+0d:0h:47m:31s |  {Phyx}              gj
+0d:0h:47m:32s |  <8) Xalri           :o
+0d:0h:47m:33s |  crack ;)            i randa, even if we have 6 randas idc
+0d:0h:47m:34s |  Evaristo            gimme a sex
+0d:0h:47m:35s |  <8) Kennedy         i actually dont remember how to fly planes
+0d:0h:47m:36s |  Evaristo            sec
+0d:0h:47m:37s |  {Phyx}              lol
+0d:0h:48m:17s || ---> "df" (8baef8f1-ef04-435c-b160-168d1665a7e2) ||
+0d:0h:48m:18s || <--- "youngHOmEskillet" (9c00dade-131b-4122-ba8d-05f978827115): Validation failed: User logged out. ||
+0d:0h:48m:28s |  OneEvelPizza        ello df
+0d:0h:48m:30s |  v elusiveOne {T}    welcome df
+0d:0h:48m:30s |  Evaristo            lol
+0d:0h:48m:31s |  {Phyx}              vnp
+0d:0h:48m:31s |  <8) Xalri           the pass
+0d:0h:48m:32s |  <8) Kennedy         WELCOME DF
+0d:0h:48m:32s |  df                  allo
+0d:0h:48m:33s |  <8) Xalri           \o/
+0d:0h:48m:34s |  df                  ty
+0d:0h:48m:39s |  v elusiveOne {T}    f
+0d:0h:48m:42s |  Evaristo            eh like teams?
+0d:0h:48m:53s |  <8) Xalri           didn't see
+0d:0h:48m:55s |  OneEvelPizza        whjat about them
+0d:0h:49m:0s  |  <8) Xalri           was 6v5
+0d:0h:49m:1s  |  Toasty              lel
+0d:0h:49m:6s  |  [fluffy]            scrubs
+0d:0h:49m:9s  |  {Phyx}              who left
+0d:0h:49m:10s |  <8) Xalri           phyx put fluffs in
+0d:0h:49m:14s |  {Phyx}              .move fluffy right
+0d:0h:49m:14s |  v elusiveOne {T}    get df in
+0d:0h:49m:15s |  Evaristo            sorry hans
+0d:0h:49m:16s |  Evaristo            D:
+0d:0h:49m:21s |  <8) Kennedy         i don't rmemeber how to play altitude
+0d:0h:49m:23s |  <8) Kennedy         can someone teach me
+0d:0h:49m:26s |  df                  is this the scrim?
+0d:0h:49m:26s |  crack ;)            dat pass
+0d:0h:49m:28s |  v H@ns              no probss
+0d:0h:49m:30s |  Toasty              xD
+0d:0h:49m:47s |  {Phyx}              flufy u gonna spawn
+0d:0h:49m:48s |  {Phyx}              or no
+0d:0h:49m:51s |  Evaristo            lol
+0d:0h:49m:52s |  {Phyx}              .move fluffy spec
+0d:0h:49m:54s |  {Phyx}              .move df right
+0d:0h:49m:56s |  Toasty              WAIT!
+0d:0h:49m:59s |  [fluffy]            oh 
+0d:0h:50m:3s  |  [fluffy]            i was alt tabed
+0d:0h:50m:12s |  <8) Xalri           *slow clap*
+0d:0h:50m:14s || ---> "P1" (006f5a46-e99a-418c-8ea3-652d0f696bb6) ||
+0d:0h:50m:17s |  [fluffy]            thanks man
+0d:0h:50m:18s |  Evaristo            smh
+0d:0h:50m:21s |  [fluffy]            GET REKT
+0d:0h:50m:22s |  [fluffy]            NOOBS
+0d:0h:50m:25s |  [fluffy]            HANS PWNS U
+0d:0h:50m:28s |  <8) Kennedy         WELCOME P1 TO FLIGHT CLUB
+0d:0h:50m:28s |  v H@ns              :D
+0d:0h:50m:33s |  P1                  sup
+0d:0h:50m:40s |  <8) Xalri           o/
+0d:0h:50m:45s |  v elusiveOne {T}    hi
+0d:0h:50m:45s |  v H@ns              hey
+0d:0h:50m:46s |  P1                  o/
+0d:0h:50m:47s |  df                  hi
+0d:0h:51m:0s  |  <8) Xalri           aww
+0d:0h:51m:16s |  {Phyx}              lol
+0d:0h:51m:26s |  [fluffy]            u know whats really annoying
+0d:0h:51m:27s |  v elusiveOne {T}    booo
+0d:0h:51m:30s |  <8) Kennedy         your face
+0d:0h:51m:40s |  [fluffy]            when someone is at ur door and u say 'come in' - but they interpret it as 'coming'
+0d:0h:51m:44s |  [fluffy]            so u need to get up and open the door
+0d:0h:51m:50s |  <8) Kennedy         that's why you say "it's open"
+0d:0h:51m:55s |  Evaristo            lol
+0d:0h:51m:57s |  [fluffy]            im not a fasg
+0d:0h:51m:58s |  [fluffy]            fag*
+0d:0h:52m:2s  || ---> "Brutal" (92f40cad-d09f-48b4-b165-5d3c3d97f26c) ||
+0d:0h:52m:4s  |  df                  at least thats how they interpret it
+0d:0h:52m:6s  |  df                  could be worse
+0d:0h:52m:6s  |  [fluffy]            only little bitches say that
+0d:0h:52m:9s  |  {Phyx}              gg
+0d:0h:52m:10s |  {-T}                gg
+0d:0h:52m:11s |  v elusiveOne {T}    gg
+0d:0h:52m:13s |  <8) Kennedy         overcompensating?
+0d:0h:52m:19s |  {Phyx}              .clear
+0d:0h:52m:20s |  {Phyx}              .free
+0d:0h:52m:20s |  crack ;)            hi butts
+0d:0h:52m:23s |  Brutal              hi
+0d:0h:52m:25s || ---- switched to map lobby_club ||
+0d:0h:52m:26s |  Toasty              Ladder?
+0d:0h:52m:32s |  {Phyx}              ladder or this 
+0d:0h:52m:33s |  {Phyx}              ?
+0d:0h:52m:35s |  Brutal              am i still admin here
+0d:0h:52m:36s |  {Phyx}              capt's
+0d:0h:52m:37s |  Tekn0z              be back laters
+0d:0h:52m:39s |  Toasty              ladder!
+0d:0h:52m:40s |  <8) Xalri           >?
+0d:0h:52m:41s |  {Phyx}              .move fluffy right
+0d:0h:52m:41s || <--- "{Tekn0z}" (b48be965-2e69-4a51-9222-4acd8a382424): Client left. ||
+0d:0h:52m:42s |  <8) Xalri           aww
+0d:0h:52m:43s |  {Phyx}              .move brutal left
+0d:0h:52m:43s |  [fluffy]            ?
+0d:0h:52m:43s |  {-T}                LADDER
+0d:0h:52m:44s |  {Phyx}              .tourny
+0d:0h:52m:45s |  Brutal              
+0d:0h:52m:48s |  [fluffy]            why am i capt
+0d:0h:52m:50s |  Brutal              cool
+0d:0h:52m:52s |  [fluffy]            i dont know u fuckers
+0d:0h:52m:52s |  <8) Kennedy         im gonna play a game opf rocket league
+0d:0h:52m:53s |  Toasty              ladder pls!
+0d:0h:52m:54s |  Brutal              .move brut spc
+0d:0h:52m:55s |  <8) Kennedy         so i can remmeber how to use controls
+0d:0h:52m:58s |  <8) Kennedy         donmt pick me
+0d:0h:52m:59s |  Brutal              .move brut spec
+0d:0h:52m:59s || <--- "OneEvelPizza" (ac4fd234-b422-46d6-8b96-079318065507): Client left. ||
+0d:0h:53m:6s  |  Brutal              .move ken left
+0d:0h:53m:7s  |  [fluffy]            0 competition
+0d:0h:53m:9s  |  {Phyx}              are we going ladder then?
+0d:0h:53m:9s  |  [fluffy]            2scared
+0d:0h:53m:9s  |  Brutal              ;)
+0d:0h:53m:11s || <--- "Evaristo" (8782bdb5-3f5c-48f9-b863-d3227a5c0aa7): Client left. ||
+0d:0h:53m:13s |  Toasty              YUP!
+0d:0h:53m:20s |  <8) Xalri           I'm fine with ladder
+0d:0h:53m:22s |  df                  im going to make a coffee, brb
+0d:0h:53m:23s |  Toasty              phyx i follow u
+0d:0h:53m:25s |  Brutal              .clear
+0d:0h:53m:25s |  {-T}                ok lets go
+0d:0h:53m:27s || <--- "{-T}" (10bfd8c3-8b5f-4db6-b585-ebfdc568daad): Client left. ||
+0d:0h:53m:30s |  Toasty              gogogogo
+0d:0h:53m:31s |  df                  ill follow wherever you guys go
+0d:0h:53m:32s || <--- "{Phyx}" (02a33655-b2eb-42c2-bc88-fff24240f0d8): Client left. ||
+0d:0h:53m:35s || <--- "<8) Xalri" (a9d97c25-09a5-432f-b221-7e3162296424): Client left. ||
+0d:0h:53m:37s || <--- "Toasty" (d03bf074-aaba-436f-b521-51176c1bd4a8): Client left. ||
+0d:0h:53m:38s || <--- "Brutal" (92f40cad-d09f-48b4-b165-5d3c3d97f26c): Client left. ||
+0d:0h:53m:39s || <--- "[fluffy]" (0204199e-fee0-47fc-9c22-efcbbdedc9af): Client left. ||
+0d:0h:53m:39s || <--- "crack ;)" (ee4ef08f-4a53-431e-a23b-1626d9a0bee2): Client left. ||
+0d:0h:53m:42s || <--- "v H@ns" (24f365c4-ded9-4842-a4df-53eae7b5bacd): Client left. ||
+0d:0h:53m:47s || <--- "P1" (006f5a46-e99a-418c-8ea3-652d0f696bb6): Client left. ||
+0d:0h:53m:49s || <--- "v elusiveOne {T}" (d2ade87e-09a6-4ff9-af7b-9ae9f58fd570): Client left. ||
+0d:0h:53m:53s || <--- "df" (8baef8f1-ef04-435c-b160-168d1665a7e2): Client left. ||
+0d:1h:4m:9s   || <--- "<8)sneaky" (666d033d-8472-4cd1-bc26-34d339d499b1): Client left. ||
+0d:1h:10m:35s || <--- "<8) Kennedy" (f0815906-5a2b-4eba-bc6e-ea7092f37cfb): Client left. ||
