@@ -37,27 +37,33 @@ logEvent (Event time action) = do
   players <- getPlayers <$> get
   lastTime <- getLastTime <$> get
   let timeNotice =
-        [LogElement lastTime Nothing ("---- " ++ printTime (time - lastTime) ++ " passes") | (time - lastTime) > timeNoticeValue]
+        [LogElement time Nothing ("---- " ++ printTime (time - lastTime) ++ " passes") | (time - lastTime) > timeNoticeValue]
   case action of
     ChatEvent pid chatStr -> do
       put (ServerState time players)
       case find ((== pid) . getPlayerID) players of
-        Nothing -> return . (:timeNotice) $ LogElement time (Just "") chatStr
-        Just player -> return . (:timeNotice) $ LogElement time (Just $ getNick player) chatStr
+        Nothing -> return . (timeNotice ++) $
+          [LogElement time (Just "") chatStr]
+        Just player -> return . (timeNotice ++) $
+          [LogElement time (Just $ getNick player) chatStr]
     JoinEvent player -> do
       put (ServerState time (player:players))
-      return . (:timeNotice) . LogElement time Nothing . concat $
+      return . (timeNotice ++) . (:[]) . LogElement time Nothing . concat $
         [ "---> "
         , "\"", getNick player
         , "\" (" , getVaporID player
         , ")" ]
     LeaveEvent player reason -> do
       put (ServerState time (filter ((/= getPlayerID player) . getPlayerID) players))
-      return . (:[]) . LogElement time Nothing . concat $
+      return . (timeNotice ++) . (:[]) . LogElement time Nothing . concat $
         [ "<--- "
         , "\"", getNick player
         , "\" (", getVaporID player
         , "): ", reason ]
+    MapEvent mapName -> do
+      put (ServerState time players)
+      return . (timeNotice ++) . (:[]) . LogElement time Nothing . concat $
+        [ "---- switched to map " ++ mapName]
     _ -> return []
 
 logEvents :: [Event] -> [LogElement]

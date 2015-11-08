@@ -34,6 +34,7 @@ data EventAction =
   | JoinEvent Player -- ^ a player enters the server
   | LeaveEvent Player String -- ^ a player leaves the server
   | MoveEvent PlayerID Int -- ^ a player moves to a team
+  | MapEvent String -- ^ changes to a map
   deriving (Show, Eq)
 
 data Event = Event Int EventAction deriving (Show, Eq)
@@ -74,6 +75,9 @@ actionFromAttrs attrs =
         player <- intFromValue =<< attr "player"
         team <- intFromValue =<< attr "team"
         return $ MoveEvent player team
+      Just "mapChange" -> do
+        mapName <- stringFromValue =<< attr "map"
+        return $ MapEvent mapName
       _ -> Nothing
 
 eventFromAttrs :: LogAttrs -> Maybe Event
