@@ -10,11 +10,12 @@ import Data.Ord
 
 data ServerState =
   ServerState
-    { getPlayers :: [Player] }
+    { getLastTime :: Int
+    , getPlayers :: [Player] }
 
 data LogElement = LogElement
   { logTime :: Int
-  , logHead :: String
+  , logHead :: Maybe String
   , logContents :: String }
 
 prettyPrint :: String -> String
@@ -28,24 +29,33 @@ prettyPrint serverLog =
 * Forming Logs
 -------------------------------------------------------------------------------}
 
+timeNoticeValue :: Int
+timeNoticeValue = 1000 * 60 * 30 -- 30 minutes
+
 logEvent :: Event -> State ServerState [LogElement]
 logEvent (Event time action) = do
   players <- getPlayers <$> get
+  lastTime <- getLastTime <$> get
+  let timeNotice =
+        [LogElement lastTime Nothing ("---- " ++ printTime (time - lastTime) ++ " passes") | (time - lastTime) > timeNoticeValue]
   case action of
-    ChatEvent pid chatStr ->
+    ChatEvent pid chatStr -> do
+      put (ServerState time players)
       case find ((== pid) . getPlayerID) players of
-        Nothing -> return [LogElement time "somebody" chatStr]
-        Just player -> return [LogElement time (getNick player) chatStr]
+        Nothing -> return . (:timeNotice) $ LogElement time (Just "") chatStr
+        Just player -> return . (:timeNotice) $ LogElement time (Just $ getNick player) chatStr
     JoinEvent player -> do
-      put (ServerState (player:players))
-      return . (:[]) . LogElement time "" . concat $
-        [ "\"", getNick player
+      put (ServerState time (player:players))
+      return . (:timeNotice) . LogElement time Nothing . concat $
+        [ "---> "
+        , "\"", getNick player
         , "\" (" , getVaporID player
         , ") joins the game" ]
     LeaveEvent player -> do
-      put (ServerState (filter ((/= getPlayerID player) . getPlayerID) players))
-      return . (:[]) . LogElement time "" . concat $
-        [ "\"", getNick player
+      put (ServerState time (filter ((/= getPlayerID player) . getPlayerID) players))
+      return . (:[]) . LogElement time Nothing . concat $
+        [ "<--- "
+        , "\"", getNick player
         , "\" (", getVaporID player
         , ") leaves the game" ]
     _ -> return []
@@ -56,25 +66,47 @@ logEvents events =
     statePrintEvents :: State ServerState [LogElement]
     statePrintEvents = fmap concat . mapM logEvent $ events
   in
-    evalState statePrintEvents $ ServerState []
+    evalState statePrintEvents $ ServerState 0 []
 
 {-------------------------------------------------------------------------------
 * Printing Logs
 -------------------------------------------------------------------------------}
 
+printTime :: Int -> String
+printTime time =
+  let
+    secondTime = 1000
+    minuteTime = 60 * secondTime
+    hourTime = 60 * minuteTime
+    dayTime = 24 * hourTime
+
+    days = time `div` dayTime
+    hours = (time - dayTime * days) `div` hourTime
+    minutes = (time - days * dayTime - hours * hourTime) `div` minuteTime
+    seconds = (time - days * dayTime - hours * hourTime - minutes * minuteTime) `div` secondTime
+  in
+    show days ++ "d:" ++ show hours ++ "h:" ++ show minutes ++ "m:" ++ show seconds ++ "s"
+
 printLog :: [LogElement] -> String
 printLog elements =
   let
-    longestTime = length . show $ logTime $ last elements
+    longestTime =
+      length . printTime . maximumBy (comparing (length . printTime)) $
+        map logTime elements
     longestHead = length . maximumBy (comparing length) $
-      map logHead elements
+      mapMaybe logHead elements
     fillToLength i str = take i $ str ++ repeat ' '
-    printElement (LogElement time header contents) =
-      concat
-        [ fillToLength longestTime (show time)
-        , " | "
-        , fillToLength longestHead header
-        , " "
-        , contents ]
+    printElement (LogElement time mheader contents) =
+      case mheader of
+        Nothing ->
+          concat
+            [ fillToLength longestTime (printTime time)
+            , " || ", contents, " ||" ]
+        Just header ->
+          concat
+            [ fillToLength longestTime (printTime time)
+            , " |  "
+            , fillToLength longestHead header
+            , contents ]
   in
     unlines . map printElement $ elements
