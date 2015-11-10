@@ -1,7 +1,21 @@
 # altitude-printer
 
-This is a small, hastily written utility I wrote to facilitate the reading of altitude server logs by human administrators. Build it with cabal, the haskell build system:
+This utility facilitates the reading of [altitude](http://altitudegame.com) server logs by human administrators.
 
-    cabal install
+## features
 
-And run the created 'altitude-printer' executible, passing an entire raw server log into its stdin; it will print a human-readable version to its stdout, with all kinds of helpful features and information. You can find examples in the /tests/ directory.
+- Player join and quit notifications
+- Chat with nicknames
+- Formatted timestamps
+- Map switches
+- Explicit notification of time-gaps between meaningful events larger than 30 minutes.
+
+## usage
+
+For now the only way to get your hands on this is to build it from source with the Haskell build system Cabal:
+
+    $ cabal install
+    $ cat log.txt ./dist/build/altitude-printer/altitude-printer > output
+
+
+-
