@@ -2,6 +2,8 @@
 
 This utility facilitates the reading of [altitude](http://altitudegame.com) server logs by human administrators.
 
+See also: [http://altitudegame.com/forums/showthread.php?t=7393](http://altitudegame.com/forums/showthread.php?t=7393) for a user-friendly C# app with client-side features.
+
 ## features
 
 - Player join and quit notifications
