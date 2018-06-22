@@ -14,10 +14,10 @@ See also: [http://altitudegame.com/forums/showthread.php?t=7393](http://altitude
 
 ## usage
 
-For now the only way to get your hands on this is to build it from source with the Haskell build system Cabal:
+You can either build it from source with the Haskell build system Cabal:
 
+    $ cabal sanbox init
     $ cabal install
-    $ cat log.txt ./dist/build/altitude-printer/altitude-printer > output
+    $ cat log.txt | ./dist/dist-sandbox-b4f4b4f1/build/altitude-printer/altitude-printer > output
 
-
--
+Or download the already built binary from the releases tab.
